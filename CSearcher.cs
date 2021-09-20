@@ -157,7 +157,7 @@ namespace Searcher
         {
 
             string path = Path.GetDirectoryName(Path.GetDirectoryName(System.IO.Directory.GetCurrentDirectory()));
-            string filename = @"histoy.txt";
+            string filename = @"history.txt";
             if (File.Exists(Path.Combine(path, filename)))
             {
                 File.Delete(Path.Combine(path, filename));
@@ -172,7 +172,8 @@ namespace Searcher
             }
             foreach (var file in Histoy)
             {
-                if (file.ToLower().Contains(Path.Combine(dir.ToLower(),term.ToLower())))
+                //if (file.ToLower().Contains(Path.Combine(dir.ToLower(),term.ToLower())))
+                if (file.ToLower().Contains(term.ToLower()))
                 {
                     return true;
                 }
@@ -191,7 +192,7 @@ namespace Searcher
         public void ReadHistory()
         {
             string path = Path.GetDirectoryName(Path.GetDirectoryName(System.IO.Directory.GetCurrentDirectory()));
-            string filename = @"histoy.txt";
+            string filename = @"history.txt";
             if (File.Exists(Path.Combine(path, filename)))
             {
                 var lineCount = File.ReadLines(Path.Combine(path, filename));

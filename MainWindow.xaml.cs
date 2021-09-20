@@ -92,12 +92,12 @@ namespace Searcher
             }
             searcher.Search();
         }
-            
+
         private void button_Click(object sender, RoutedEventArgs e)
         {
-            this.searcher.Term = textBox1.Text;
-            this.searcher.Dir = textBox.Text;
-            
+            this.searcher.Term = textBox1.Text.ToLower();
+            this.searcher.Dir = textBox.Text.ToLower();
+            searcher.ReadHistory();
             if (worker.IsBusy)
             {
                 worker.CancelAsync();
@@ -109,7 +109,7 @@ namespace Searcher
             {
                 listbox2.Items.Clear();
                 foreach (var path in searcher.Histoy)
-                    if (path.ToLower().Contains(searcher.Term))
+                    if (path.ToLower().Contains(searcher.Term.ToLower()))
                     {
                         listbox2.Items.Add(path);
                     }
@@ -125,7 +125,6 @@ namespace Searcher
         {
             if (worker.IsBusy) {
                 worker.CancelAsync();
-
                 MessageBox.Show("Busy");
                 return;
             }
