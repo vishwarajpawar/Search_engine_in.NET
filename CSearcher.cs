@@ -10,7 +10,7 @@ namespace Searcher
 {
     delegate void FileFound(string path);
     delegate void DirFound(string[] paths);
-    class CSearcher
+    internal class CSearcher
     {
         public event FileFound OnFileFound;
         public event DirFound OnDirFound;
@@ -93,10 +93,7 @@ namespace Searcher
 
                     if (Directory.Exists(s) && s != "." && s != "..")
                     {
-
                         PScan(s);
-
-                       
                     }
                     if (_s.Contains(_term))
                     {

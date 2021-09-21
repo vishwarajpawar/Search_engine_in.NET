@@ -1,1 +1,1393 @@
-e:\Codes\Quick.java
+E:\firstofflask\env\Lib\site-packages\astroid\context.py
+E:\.metadata\.mylyn\contexts
+E:\WT\.metadata\.mylyn\contexts
+E:\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.mylyn.context.core.prefs
+E:\.metadata\.plugins\org.eclipse.mylyn.context.core\contexts
+E:\.metadata\.plugins\org.eclipse.mylyn.context.core
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$R1L4W84\Lib\site-packages\pip\_internal\cli\command_context.py
+E:\boot\vcpkg\scripts\boost\post-build-stubs\context.cmake
+E:\boot\vcpkg\toolsrc\include\vcpkg\textrowcol.h
+E:\boot\vcpkg\scripts\boost\post-source-stubs\context.cmake
+E:\firstofflask\env\Lib\site-packages\astroid\__pycache__\context.cpython-37.pyc
+E:\firstofflask\env\Lib\site-packages\click\_textwrap.py
+E:\firstofflask\env\Lib\site-packages\click\__pycache__\_textwrap.cpython-37.pyc
+E:\firstofflask\env\Lib\site-packages\pip\_internal\cli\command_context.py
+E:\firstofflask\env\Lib\site-packages\pip\_internal\cli\__pycache__\command_context.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\astroid\context.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$R1L4W84\Lib\site-packages\pip\_vendor\contextlib2.py
+E:\Project2 - Copy\app\env\Lib\site-packages\astroid\__pycache__\context.cpython-37.pyc
+E:\xampp\apache\icons\text.gif
+E:\xampp\apache\icons\text.png
+E:\xampp\apache\icons\small\text.gif
+E:\xampp\apache\icons\small\text.png
+E:\firstofflask\env\Lib\site-packages\setuptools\_distutils\text_file.py
+E:\Project2 - Copy\app\env\Lib\site-packages\click\_textwrap.py
+E:\Project2 - Copy\app\env\Lib\site-packages\click\__pycache__\_textwrap.cpython-37.pyc
+E:\firstofflask\env\Lib\site-packages\pip\_vendor\contextlib2.py
+E:\Codes\text.py
+E:\Project2 - Copy\app\env\Lib\site-packages\google\protobuf\source_context_pb2.py
+E:\Project2 - Copy\app\env\Lib\site-packages\google\protobuf\text_encoding.py
+E:\Project2 - Copy\app\env\Lib\site-packages\google\protobuf\text_format.py
+E:\Project2 - Copy\app\env\Lib\site-packages\google\protobuf\__pycache__\source_context_pb2.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\google\protobuf\__pycache__\text_encoding.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\google\protobuf\__pycache__\text_format.cpython-37.pyc
+E:\firstofflask\env\Lib\site-packages\pylint\reporters\text.py
+E:\firstofflask\env\Lib\site-packages\pylint\reporters\ureports\text_writer.py
+E:\firstofflask\env\Lib\site-packages\pylint\reporters\ureports\__pycache__\text_writer.cpython-37.pyc
+E:\firstofflask\env\Lib\site-packages\pylint\reporters\__pycache__\text.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\greenlet\tests\test_contextvars.py
+E:\Project2 - Copy\app\env\Lib\site-packages\greenlet\tests\__pycache__\test_contextvars.cpython-37.pyc
+E:\xampp\php\CompatInfo\gettext_func_array.php
+E:\firstofflask\env\Lib\site-packages\pip\_vendor\__pycache__\contextlib2.cpython-37.pyc
+E:\xampp\php\CompatInfo\Renderer\Text.php
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$R1L4W84\Lib\site-packages\setuptools\_distutils\text_file.py
+E:\xampp\licenses\gettext\COPYING
+E:\xampp\licenses\gettext
+E:\Project2\app\env\Lib\site-packages\astroid\context.py
+E:\Project2\app\env\Lib\site-packages\astroid\__pycache__\context.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\keras_preprocessing\text.py
+E:\Project2 - Copy\app\env\Lib\site-packages\keras_preprocessing\__pycache__\text.cpython-37.pyc
+E:\xampp\php\ext\php_gettext.dll
+E:\Project2 - Copy\app\env\Lib\site-packages\llvmlite\binding\context.py
+E:\Project2 - Copy\app\env\Lib\site-packages\llvmlite\binding\__pycache__\context.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\llvmlite\ir\context.py
+E:\Project2 - Copy\app\env\Lib\site-packages\llvmlite\ir\__pycache__\context.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\matplotlib\mathtext.py
+E:\Project2 - Copy\app\env\Lib\site-packages\matplotlib\text.py
+E:\Project2 - Copy\app\env\Lib\site-packages\matplotlib\textpath.py
+E:\Project2 - Copy\app\env\Lib\site-packages\matplotlib\_mathtext.py
+E:\Project2 - Copy\app\env\Lib\site-packages\matplotlib\_mathtext_data.py
+E:\Project2 - Copy\app\env\Lib\site-packages\matplotlib\_text_layout.py
+E:\Project2 - Copy\app\env\Lib\site-packages\joblib\externals\loky\backend\context.py
+E:\Project2 - Copy\app\env\Lib\site-packages\joblib\externals\loky\backend\__pycache__\context.cpython-37.pyc
+E:\boot\vcpkg\ports\boost-context\CONTROL
+E:\Project2\app\env\Lib\site-packages\click\_textwrap.py
+E:\boot\vcpkg\ports\boost-context\fix_exports_for_32bit_GNU_asm_for_windows.patch
+E:\boot\vcpkg\ports\boost-context\portfile.cmake
+E:\boot\vcpkg\ports\boost-context
+E:\xampp\php\scripts\gettext_func_exceptions.php
+E:\Project2\app\env\Lib\site-packages\click\__pycache__\_textwrap.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\keras\preprocessing\text.py
+E:\Project2 - Copy\app\env\Lib\site-packages\keras\preprocessing\__pycache__\text.cpython-37.pyc
+E:\WT\Workspace\WT_POE_40\target\test-classes\org\springframework\boot\test\context\SpringBootTest.class
+E:\WT\Workspace\WT_POE_40\target\test-classes\org\springframework\boot\test\context
+E:\Project2 - Copy\app\env\Lib\site-packages\matplotlib\tests\test_mathtext.py
+E:\Project2 - Copy\app\env\Lib\site-packages\matplotlib\tests\test_text.py
+E:\Project2 - Copy\app\env\Lib\site-packages\matplotlib\tests\__pycache__\test_mathtext.cpython-37.pyc
+E:\xampp\php\windowsXamppPhp\ext\php_gettext.dll
+E:\Project2 - Copy\app\env\Lib\site-packages\matplotlib\tests\__pycache__\test_text.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\numba\core\withcontexts.py
+E:\Project2 - Copy\app\env\Lib\site-packages\numba\core\runtime\context.py
+E:\Project2 - Copy\app\env\Lib\site-packages\numba\core\runtime\__pycache__\context.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\numba\core\typing\context.py
+E:\Project2 - Copy\app\env\Lib\site-packages\numba\core\typing\__pycache__\context.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\google\protobuf\source_context_pb2.py
+E:\Project2\app\env\Lib\site-packages\google\protobuf\text_encoding.py
+E:\Project2\app\env\Lib\site-packages\google\protobuf\text_format.py
+E:\Project2 - Copy\app\env\Lib\site-packages\numba\core\__pycache__\withcontexts.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\matplotlib\__pycache__\mathtext.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\matplotlib\__pycache__\text.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\matplotlib\__pycache__\textpath.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\matplotlib\__pycache__\_mathtext.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\matplotlib\__pycache__\_mathtext_data.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\matplotlib\__pycache__\_text_layout.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\numba\cuda\tests\cudadrv\test_context_stack.py
+E:\Project2 - Copy\app\env\Lib\site-packages\numba\cuda\tests\cudadrv\test_cuda_auto_context.py
+E:\Project2\app\env\Lib\site-packages\google\protobuf\__pycache__\source_context_pb2.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\google\protobuf\__pycache__\text_encoding.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\google\protobuf\__pycache__\text_format.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\numba\cuda\tests\cudadrv\__pycache__\test_context_stack.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\numba\cuda\tests\cudadrv\__pycache__\test_cuda_auto_context.cpython-37.pyc
+E:\Codes\capg\EndToEndApp\Areas\HelpPage\SampleGeneration\TextSample.cs
+E:\Project2\app\env\Lib\site-packages\greenlet\tests\test_contextvars.py
+E:\Project2\app\env\Lib\site-packages\greenlet\tests\__pycache__\test_contextvars.cpython-37.pyc
+E:\Codes\capg\EndToEndApp\Areas\HelpPage\Views\Help\DisplayTemplates\TextSample.cshtml
+E:\Codes\capg\EndToEndApp\bin\roslyn\System.AppContext.dll
+E:\Codes\capg\EndToEndApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\xampp\php\pear\PHP\CodeCoverage\Report\Text.php
+E:\boot\vcpkg\ports\gettext\0001-Fix-macro-definitions.patch
+E:\boot\vcpkg\ports\gettext\0002-Fix-uwp-build.patch
+E:\boot\vcpkg\ports\gettext\0003-Fix-win-unicode-paths.patch
+E:\boot\vcpkg\ports\gettext\CMakeLists.txt
+E:\xampp\php\pear\PHP\CodeSniffer\DocGenerators\Text.php
+E:\boot\vcpkg\ports\gettext\config.unix.h.in
+E:\boot\vcpkg\ports\gettext\config.win32.h
+E:\boot\vcpkg\ports\gettext\CONTROL
+E:\boot\vcpkg\ports\gettext\libgnuintl.win32.h
+E:\boot\vcpkg\ports\gettext\portfile.cmake
+E:\boot\vcpkg\ports\gettext\unofficial-gettext-config.cmake
+E:\boot\vcpkg\ports\gettext
+E:\Codes\capg\EndToEndApp\packages\Microsoft.AspNet.WebApi.HelpPage.5.2.7\Content\Areas\HelpPage\SampleGeneration\TextSample.cs.pp
+E:\Codes\capg\EndToEndApp\packages\Microsoft.AspNet.WebApi.HelpPage.5.2.7\Content\Areas\HelpPage\Views\Help\DisplayTemplates\TextSample.cshtml.pp
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\anyio\streams\text.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\anyio\streams\__pycache__\text.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\astroid\context.py
+E:\Project2\app\env\Lib\site-packages\joblib\externals\loky\backend\context.py
+E:\Project2\app\env\Lib\site-packages\joblib\externals\loky\backend\__pycache__\context.cpython-37.pyc
+E:\Codes\capg\EndToEndApp\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\System.AppContext.dll
+E:\Codes\capg\EndToEndApp\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.AppContext.dll
+E:\xampp\php\pear\PHP\CompatInfo\gettext_func_array.php
+E:\Codes\capg\EndToEndApp\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\System.Text.Encoding.CodePages.dll
+E:\xampp\php\pear\PHP\CompatInfo\Renderer\Text.php
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\astroid\__pycache__\context.cpython-37.pyc
+E:\xampp\php\pear\PHP\UML\Output\ApiContextPackage.php
+E:\Project2\app\env\Lib\site-packages\keras\preprocessing\text.py
+E:\Project2\app\env\Lib\site-packages\keras\preprocessing\__pycache__\text.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\keras_preprocessing\text.py
+E:\Project2\app\env\Lib\site-packages\keras_preprocessing\__pycache__\text.cpython-37.pyc
+E:\xampp\php\pear\PHPUnit\TextUI\Command.php
+E:\xampp\php\pear\PHPUnit\TextUI\ResultPrinter.php
+E:\xampp\php\pear\PHPUnit\TextUI\TestRunner.php
+E:\xampp\php\pear\PHPUnit\TextUI
+E:\xampp\php\pear\PHPUnit\Util\TestDox\ResultPrinter\Text.php
+E:\Project2\app\env\Lib\site-packages\llvmlite\binding\context.py
+E:\Project2\app\env\Lib\site-packages\llvmlite\binding\__pycache__\context.cpython-37.pyc
+E:\xampp\php\pear\PHPUnit2\TextUI\ResultPrinter.php
+E:\xampp\php\pear\PHPUnit2\TextUI\TestRunner.php
+E:\xampp\php\pear\PHPUnit2\TextUI
+E:\Project2\app\env\Lib\site-packages\llvmlite\ir\context.py
+E:\xampp\php\pear\PHPUnit2\Util\CodeCoverage\Renderer\Text.php
+E:\Project2\app\env\Lib\site-packages\llvmlite\ir\__pycache__\context.cpython-37.pyc
+E:\WT\Workspace\.metadata\.plugins\org.eclipse.wildwebdeveloper.embedder.node\node-v12.16.1-win-x64\node_modules\npm\node_modules\bluebird\js\release\context.js
+E:\xampp\php\pear\PHPUnit2\Util\TestDox\ResultPrinter\Text.php
+E:\xampp\php\pear\Text\Diff.php
+E:\xampp\php\pear\Text\Diff3.php
+E:\xampp\php\pear\Text\Template.php
+E:\xampp\php\pear\Text\Wiki.php
+E:\xampp\php\pear\Text\Diff\Mapped.php
+E:\xampp\php\pear\Text\Diff\Renderer.php
+E:\xampp\php\pear\Text\Diff\ThreeWay.php
+E:\xampp\php\pear\Text\Diff\Engine\native.php
+E:\xampp\php\pear\Text\Diff\Engine\shell.php
+E:\xampp\php\pear\Text\Diff\Engine\string.php
+E:\xampp\php\pear\Text\Diff\Engine\xdiff.php
+E:\xampp\php\pear\Text\Diff\Engine
+E:\xampp\php\pear\Text\Diff\Renderer\context.php
+E:\xampp\php\pear\Text\Diff\Renderer\inline.php
+E:\xampp\php\pear\Text\Diff\Renderer\unified.php
+E:\xampp\php\pear\Text\Diff\Renderer
+E:\xampp\php\pear\Text\Diff
+E:\xampp\php\pear\Text\Template\Autoload.php
+E:\xampp\php\pear\Text\Template
+E:\xampp\php\pear\Text\Wiki\Default.php
+E:\xampp\php\pear\Text\Wiki\Parse.php
+E:\xampp\php\pear\Text\Wiki\Render.php
+E:\xampp\php\pear\Text\Wiki\Parse\Default\Anchor.php
+E:\xampp\php\pear\Text\Wiki\Parse\Default\Blockquote.php
+E:\xampp\php\pear\Text\Wiki\Parse\Default\Bold.php
+E:\xampp\php\pear\Text\Wiki\Parse\Default\Break.php
+E:\Project2\app\env\Lib\site-packages\numba\core\withcontexts.py
+E:\xampp\php\pear\Text\Wiki\Parse\Default\Center.php
+E:\xampp\php\pear\Text\Wiki\Parse\Default\Code.php
+E:\xampp\php\pear\Text\Wiki\Parse\Default\Colortext.php
+E:\xampp\php\pear\Text\Wiki\Parse\Default\Deflist.php
+E:\xampp\php\pear\Text\Wiki\Parse\Default\Delimiter.php
+E:\xampp\php\pear\Text\Wiki\Parse\Default\Embed.php
+E:\xampp\php\pear\Text\Wiki\Parse\Default\Emphasis.php
+E:\xampp\php\pear\Text\Wiki\Parse\Default\Freelink.php
+E:\xampp\php\pear\Text\Wiki\Parse\Default\Function.php
+E:\xampp\php\pear\Text\Wiki\Parse\Default\Heading.php
+E:\xampp\php\pear\Text\Wiki\Parse\Default\Horiz.php
+E:\xampp\php\pear\Text\Wiki\Parse\Default\Html.php
+E:\xampp\php\pear\Text\Wiki\Parse\Default\Image.php
+E:\xampp\php\pear\Text\Wiki\Parse\Default\Include.php
+E:\xampp\php\pear\Text\Wiki\Parse\Default\Interwiki.php
+E:\xampp\php\pear\Text\Wiki\Parse\Default\Italic.php
+E:\xampp\php\pear\Text\Wiki\Parse\Default\List.php
+E:\xampp\php\pear\Text\Wiki\Parse\Default\Newline.php
+E:\xampp\php\pear\Text\Wiki\Parse\Default\Paragraph.php
+E:\xampp\php\pear\Text\Wiki\Parse\Default\Phplookup.php
+E:\xampp\php\pear\Text\Wiki\Parse\Default\Prefilter.php
+E:\xampp\php\pear\Text\Wiki\Parse\Default\Raw.php
+E:\xampp\php\pear\Text\Wiki\Parse\Default\Revise.php
+E:\xampp\php\pear\Text\Wiki\Parse\Default\Smiley.php
+E:\xampp\php\pear\Text\Wiki\Parse\Default\Strong.php
+E:\xampp\php\pear\Text\Wiki\Parse\Default\Subscript.php
+E:\xampp\php\pear\Text\Wiki\Parse\Default\Superscript.php
+E:\xampp\php\pear\Text\Wiki\Parse\Default\Table.php
+E:\xampp\php\pear\Text\Wiki\Parse\Default\Tighten.php
+E:\xampp\php\pear\Text\Wiki\Parse\Default\Toc.php
+E:\xampp\php\pear\Text\Wiki\Parse\Default\Tt.php
+E:\xampp\php\pear\Text\Wiki\Parse\Default\Underline.php
+E:\xampp\php\pear\Text\Wiki\Parse\Default\Url.php
+E:\xampp\php\pear\Text\Wiki\Parse\Default\Wikilink.php
+E:\xampp\php\pear\Text\Wiki\Parse\Default
+E:\xampp\php\pear\Text\Wiki\Parse
+E:\xampp\php\pear\Text\Wiki\Render\Latex.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Anchor.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Blockquote.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Bold.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Box.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Break.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Center.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Code.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Colortext.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Deflist.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Delimiter.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Embed.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Emphasis.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Font.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Freelink.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Function.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Heading.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Horiz.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Html.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Image.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Include.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Interwiki.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Italic.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\List.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Newline.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Page.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Paragraph.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Phplookup.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Plugin.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Prefilter.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Preformatted.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Raw.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Revise.php
+E:\Project2\app\env\Lib\site-packages\numba\core\runtime\context.py
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Smiley.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Specialchar.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Strong.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Subscript.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Superscript.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Table.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Tighten.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Titlebar.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Toc.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Tt.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Underline.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Url.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex\Wikilink.php
+E:\xampp\php\pear\Text\Wiki\Render\Latex
+E:\Project2\app\env\Lib\site-packages\numba\core\runtime\__pycache__\context.cpython-37.pyc
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Anchor.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Blockquote.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Bold.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Box.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Break.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Center.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Code.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Colortext.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Deflist.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Delimiter.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Embed.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Emphasis.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Font.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Freelink.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Function.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Heading.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Horiz.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Html.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Image.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Include.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Interwiki.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Italic.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\List.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Newline.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Page.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Paragraph.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Phplookup.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Plugin.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Prefilter.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Preformatted.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Raw.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Revise.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Smiley.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Specialchar.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Strong.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Subscript.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Superscript.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Table.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Tighten.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Titlebar.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Toc.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Tt.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Underline.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Url.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain\Wikilink.php
+E:\xampp\php\pear\Text\Wiki\Render\Plain
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Address.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Anchor.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Blockquote.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Bold.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Box.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Break.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Center.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Code.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Colortext.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Deflist.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Delimiter.php
+E:\Project2 - Copy\app\env\Lib\site-packages\pandas\tests\io\parser\test_textreader.py
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Embed.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Emphasis.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Font.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Freelink.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Function.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Heading.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Horiz.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Html.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Image.php
+E:\Project2\app\env\Lib\site-packages\numba\core\typing\context.py
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Include.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Interwiki.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Italic.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\List.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Newline.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Page.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Paragraph.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Phplookup.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Plugin.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Prefilter.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Preformatted.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Raw.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Revise.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Smiley.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Specialchar.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Strong.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Subscript.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Superscript.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Table.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Tighten.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Titlebar.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Toc.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Tt.php
+E:\Project2 - Copy\app\env\Lib\site-packages\pandas\tests\io\parser\__pycache__\test_textreader.cpython-37.pyc
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Underline.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Url.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml\Wikilink.php
+E:\xampp\php\pear\Text\Wiki\Render\Xhtml
+E:\xampp\php\pear\Text\Wiki\Render
+E:\xampp\php\pear\Text\Wiki
+E:\xampp\php\pear\Text
+E:\Project2\app\env\Lib\site-packages\numba\core\typing\__pycache__\context.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\numba\core\__pycache__\withcontexts.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\numba\cuda\tests\cudadrv\test_context_stack.py
+E:\Project2\app\env\Lib\site-packages\numba\cuda\tests\cudadrv\test_cuda_auto_context.py
+E:\Project2\app\env\Lib\site-packages\numba\cuda\tests\cudadrv\__pycache__\test_context_stack.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\numba\cuda\tests\cudadrv\__pycache__\test_cuda_auto_context.cpython-37.pyc
+E:\TY_B.tech\DBE\.metadata\.mylyn\contexts
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\models\textures.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\models\__pycache__\textures.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\contexts.py
+E:\Project2 - Copy\app\env\Lib\site-packages\pip\_internal\cli\command_context.py
+E:\Project2 - Copy\app\env\Lib\site-packages\pip\_internal\cli\__pycache__\command_context.cpython-37.pyc
+E:\TY_B.tech\DBE\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.mylyn.context.core.prefs
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\lib\core\util\text.js
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\lib\core\visuals\text.js
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\lib\models\annotations\text_annotation.js
+E:\TY_B.tech\DBE\.metadata\.plugins\org.eclipse.mylyn.context.core\contexts
+E:\TY_B.tech\DBE\.metadata\.plugins\org.eclipse.mylyn.context.core
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\lib\models\glyphs\text.js
+E:\Project2 - Copy\app\env\Lib\site-packages\pip\_vendor\contextlib2.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\lib\models\glyphs\webgl\utils\texture.js
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\lib\models\textures\canvas_texture.js
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\lib\models\textures\image_url_texture.js
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\lib\models\textures\index.js
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\lib\models\textures\texture.js
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\lib\models\textures
+E:\TY_B.tech\DBE\salesr40\.metadata\.mylyn\contexts
+E:\TY_B.tech\DBE\salesr40\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.mylyn.context.core.prefs
+E:\TY_B.tech\DBE\salesr40\.metadata\.plugins\org.eclipse.mylyn.context.core\contexts
+E:\TY_B.tech\DBE\salesr40\.metadata\.plugins\org.eclipse.mylyn.context.core
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\lib\models\widgets\pretext.js
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\lib\models\widgets\textarea_input.js
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\lib\models\widgets\text_input.js
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\lib\models\widgets\text_like_input.js
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\types\core\util\text.d.ts
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\types\core\util\text.d.ts.map
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\types\core\visuals\text.d.ts
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\types\core\visuals\text.d.ts.map
+E:\boot\vcpkg\ports\tesseract\fix-text2image.patch
+E:\Project2 - Copy\app\env\Lib\site-packages\pip\_vendor\__pycache__\contextlib2.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\types\models\annotations\text_annotation.d.ts
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\types\models\annotations\text_annotation.d.ts.map
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\types\models\glyphs\text.d.ts
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\types\models\glyphs\text.d.ts.map
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\types\models\glyphs\webgl\utils\texture.d.ts
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\types\models\glyphs\webgl\utils\texture.d.ts.map
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\types\models\textures\canvas_texture.d.ts
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\types\models\textures\canvas_texture.d.ts.map
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\types\models\textures\image_url_texture.d.ts
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\types\models\textures\image_url_texture.d.ts.map
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\types\models\textures\index.d.ts
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\types\models\textures\index.d.ts.map
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\types\models\textures\texture.d.ts
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\types\models\textures\texture.d.ts.map
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\types\models\textures
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\types\models\widgets\pretext.d.ts
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\types\models\widgets\pretext.d.ts.map
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\types\models\widgets\textarea_input.d.ts
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\types\models\widgets\textarea_input.d.ts.map
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\types\models\widgets\text_input.d.ts
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\types\models\widgets\text_input.d.ts.map
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\types\models\widgets\text_like_input.d.ts
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\static\js\types\models\widgets\text_like_input.d.ts.map
+E:\Project2 - Copy\app\env\Lib\site-packages\pylint\reporters\text.py
+E:\Project2 - Copy\app\env\Lib\site-packages\pylint\reporters\ureports\text_writer.py
+E:\Project2 - Copy\app\env\Lib\site-packages\pylint\reporters\ureports\__pycache__\text_writer.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\pylint\reporters\__pycache__\text.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\bokeh\server\__pycache__\contexts.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\click\_textwrap.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\click\__pycache__\_textwrap.cpython-37.pyc
+E:\Codes\capg\OOlabs & C#\c-sharp\FileIO & Serialization\FileIO_1\Text.txt
+E:\Codes\capg\OOlabs & C#\c-sharp\FileIO & Serialization\FileIO_10\MText.txt
+E:\Codes\capg\OOlabs & C#\c-sharp\FileIO & Serialization\FileIO_11\Text.txt
+E:\Codes\capg\OOlabs & C#\c-sharp\FileIO & Serialization\FileIO_12\Text.txt
+E:\Codes\capg\OOlabs & C#\c-sharp\FileIO & Serialization\FileIO_13\Text.txt
+E:\Codes\capg\OOlabs & C#\c-sharp\FileIO & Serialization\FileIO_14\Text.txt
+E:\Codes\capg\OOlabs & C#\c-sharp\FileIO & Serialization\FileIO_15\Text.txt
+E:\Codes\capg\OOlabs & C#\c-sharp\FileIO & Serialization\FileIO_2\Text.txt
+E:\Codes\capg\OOlabs & C#\c-sharp\FileIO & Serialization\FileIO_3\Text.txt
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\google\protobuf\source_context_pb2.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\google\protobuf\text_encoding.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\google\protobuf\text_format.py
+E:\Codes\capg\OOlabs & C#\c-sharp\FileIO & Serialization\FileIO_4\Text.txt
+E:\Codes\capg\OOlabs & C#\c-sharp\FileIO & Serialization\FileIO_5\Text.txt
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\google\protobuf\__pycache__\source_context_pb2.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\google\protobuf\__pycache__\text_encoding.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\google\protobuf\__pycache__\text_format.cpython-37.pyc
+E:\Codes\capg\OOlabs & C#\c-sharp\FileIO & Serialization\FileIO_6\Text.txt
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\greenlet\tests\test_contextvars.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\greenlet\tests\__pycache__\test_contextvars.cpython-37.pyc
+E:\Codes\capg\OOlabs & C#\c-sharp\FileIO & Serialization\FileIO_7\Text.txt
+E:\Codes\capg\OOlabs & C#\c-sharp\FileIO & Serialization\FileIO_8\Text.txt
+E:\Codes\capg\OOlabs & C#\c-sharp\FileIO & Serialization\FileIO_9\Text.txt
+E:\Codes\capg\OOlabs & C#\c-sharp\FileIO & Serialization\FileIO_9\Text2.txt
+E:\Project2\app\env\Lib\site-packages\pandas\tests\io\parser\test_textreader.py
+E:\Project2\app\env\Lib\site-packages\pandas\tests\io\parser\__pycache__\test_textreader.cpython-37.pyc
+E:\WT\Workspace\.metadata\.plugins\org.eclipse.wildwebdeveloper.embedder.node\node-v12.16.1-win-x64\node_modules\npm\node_modules\text-table\.travis.yml
+E:\WT\Workspace\.metadata\.plugins\org.eclipse.wildwebdeveloper.embedder.node\node-v12.16.1-win-x64\node_modules\npm\node_modules\text-table\index.js
+E:\WT\Workspace\.metadata\.plugins\org.eclipse.wildwebdeveloper.embedder.node\node-v12.16.1-win-x64\node_modules\npm\node_modules\text-table\LICENSE
+E:\WT\Workspace\.metadata\.plugins\org.eclipse.wildwebdeveloper.embedder.node\node-v12.16.1-win-x64\node_modules\npm\node_modules\text-table\package.json
+E:\WT\Workspace\.metadata\.plugins\org.eclipse.wildwebdeveloper.embedder.node\node-v12.16.1-win-x64\node_modules\npm\node_modules\text-table\readme.markdown
+E:\WT\Workspace\.metadata\.plugins\org.eclipse.wildwebdeveloper.embedder.node\node-v12.16.1-win-x64\node_modules\npm\node_modules\text-table\example\align.js
+E:\WT\Workspace\.metadata\.plugins\org.eclipse.wildwebdeveloper.embedder.node\node-v12.16.1-win-x64\node_modules\npm\node_modules\text-table\example\center.js
+E:\WT\Workspace\.metadata\.plugins\org.eclipse.wildwebdeveloper.embedder.node\node-v12.16.1-win-x64\node_modules\npm\node_modules\text-table\example\dotalign.js
+E:\WT\Workspace\.metadata\.plugins\org.eclipse.wildwebdeveloper.embedder.node\node-v12.16.1-win-x64\node_modules\npm\node_modules\text-table\example\doubledot.js
+E:\WT\Workspace\.metadata\.plugins\org.eclipse.wildwebdeveloper.embedder.node\node-v12.16.1-win-x64\node_modules\npm\node_modules\text-table\example\table.js
+E:\WT\Workspace\.metadata\.plugins\org.eclipse.wildwebdeveloper.embedder.node\node-v12.16.1-win-x64\node_modules\npm\node_modules\text-table\example
+E:\WT\Workspace\.metadata\.plugins\org.eclipse.wildwebdeveloper.embedder.node\node-v12.16.1-win-x64\node_modules\npm\node_modules\text-table
+E:\Codes\capg\OOlabs & C#\FileIO & Serialization\FileIO_1\Text.txt
+E:\Codes\capg\OOlabs & C#\FileIO & Serialization\FileIO_10\MText.txt
+E:\Codes\capg\OOlabs & C#\FileIO & Serialization\FileIO_11\Text.txt
+E:\Codes\capg\OOlabs & C#\FileIO & Serialization\FileIO_12\Text.txt
+E:\Codes\capg\OOlabs & C#\FileIO & Serialization\FileIO_13\Text.txt
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\IPython\lib\latextools.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\IPython\lib\tests\test_latextools.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\IPython\lib\tests\__pycache__\test_latextools.cpython-37.pyc
+E:\Codes\capg\OOlabs & C#\FileIO & Serialization\FileIO_14\Text.txt
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\IPython\lib\__pycache__\latextools.cpython-37.pyc
+E:\Codes\capg\OOlabs & C#\FileIO & Serialization\FileIO_15\Text.txt
+E:\Codes\capg\OOlabs & C#\FileIO & Serialization\FileIO_2\Text.txt
+E:\Project2\app\env\Lib\site-packages\pip\_internal\cli\command_context.py
+E:\Project2\app\env\Lib\site-packages\pip\_internal\cli\__pycache__\command_context.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\IPython\utils\contexts.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\IPython\utils\syspathcontext.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\IPython\utils\text.py
+E:\Codes\capg\OOlabs & C#\FileIO & Serialization\FileIO_3\Text.txt
+E:\Project2 - Copy\app\env\Lib\site-packages\setuptools\_distutils\text_file.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\IPython\utils\tests\test_text.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\IPython\utils\tests\__pycache__\test_text.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\IPython\utils\__pycache__\contexts.cpython-37.pyc
+E:\Codes\capg\OOlabs & C#\FileIO & Serialization\FileIO_4\Text.txt
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\IPython\utils\__pycache__\syspathcontext.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\IPython\utils\__pycache__\text.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\ipython_genutils\text.py
+E:\Codes\capg\OOlabs & C#\FileIO & Serialization\FileIO_5\Text.txt
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\ipython_genutils\tests\test_text.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\ipython_genutils\tests\__pycache__\test_text.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\ipython_genutils\__pycache__\text.cpython-37.pyc
+E:\Codes\capg\OOlabs & C#\FileIO & Serialization\FileIO_6\Text.txt
+E:\Codes\capg\OOlabs & C#\FileIO & Serialization\FileIO_7\Text.txt
+E:\Project2\app\env\Lib\site-packages\pip\_vendor\contextlib2.py
+E:\Codes\capg\OOlabs & C#\FileIO & Serialization\FileIO_8\Text.txt
+E:\Codes\capg\OOlabs & C#\FileIO & Serialization\FileIO_9\Text.txt
+E:\Codes\capg\OOlabs & C#\FileIO & Serialization\FileIO_9\Text2.txt
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\jedi\inference\context.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\jedi\inference\__pycache__\context.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\sklearn\feature_extraction\text.py
+E:\Project2 - Copy\app\env\Lib\site-packages\sklearn\feature_extraction\tests\test_text.py
+E:\Project2 - Copy\app\env\Lib\site-packages\sklearn\feature_extraction\tests\__pycache__\test_text.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\sklearn\feature_extraction\__pycache__\text.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\jedi\third_party\django-stubs\django-stubs\contrib\auth\context_processors.pyi
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\jedi\third_party\django-stubs\django-stubs\contrib\messages\context_processors.pyi
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\jedi\third_party\django-stubs\django-stubs\contrib\postgres\fields\citext.pyi
+E:\Project2\app\env\Lib\site-packages\pip\_vendor\__pycache__\contextlib2.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\jedi\third_party\django-stubs\django-stubs\db\models\functions\text.pyi
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\jedi\third_party\django-stubs\django-stubs\template\context.pyi
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\jedi\third_party\django-stubs\django-stubs\template\context_processors.pyi
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\jedi\third_party\django-stubs\django-stubs\utils\text.pyi
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\jedi\third_party\typeshed\stdlib\2\gettext.pyi
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\jedi\third_party\typeshed\stdlib\2\textwrap.pyi
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\jedi\third_party\typeshed\stdlib\2\email\MIMEText.pyi
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\jedi\third_party\typeshed\stdlib\2\email\mime\text.pyi
+E:\Project2\app\env\Lib\site-packages\pylint\reporters\text.py
+E:\Project2\app\env\Lib\site-packages\pylint\reporters\ureports\text_writer.py
+E:\Project2\app\env\Lib\site-packages\pylint\reporters\ureports\__pycache__\text_writer.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\contextlib.pyi
+E:\Project2\app\env\Lib\site-packages\pylint\reporters\__pycache__\text.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\curses\textpad.pyi
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\distutils\text_file.pyi
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\jedi\third_party\typeshed\stdlib\3\gettext.pyi
+E:\Project2 - Copy\app\env\Lib\site-packages\sqlalchemy\orm\context.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\jedi\third_party\typeshed\stdlib\3\textwrap.pyi
+E:\Project2 - Copy\app\env\Lib\site-packages\sqlalchemy\orm\__pycache__\context.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\jedi\third_party\typeshed\stdlib\3\email\mime\text.pyi
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\jedi\third_party\typeshed\stdlib\3\multiprocessing\context.pyi
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorboard\context.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\jedi\third_party\typeshed\stdlib\3.7\contextvars.pyi
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\jedi\third_party\typeshed\third_party\2\six\moves\email_mime_text.pyi
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorboard\plugins\hparams\backend_context.py
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorboard\plugins\hparams\__pycache__\backend_context.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorboard\plugins\text\metadata.py
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorboard\plugins\text\plugin_data_pb2.py
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorboard\plugins\text\summary.py
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorboard\plugins\text\summary_v2.py
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorboard\plugins\text\text_plugin.py
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorboard\plugins\text\__init__.py
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorboard\plugins\text\__pycache__\metadata.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorboard\plugins\text\__pycache__\plugin_data_pb2.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorboard\plugins\text\__pycache__\summary.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorboard\plugins\text\__pycache__\summary_v2.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorboard\plugins\text\__pycache__\text_plugin.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorboard\plugins\text\__pycache__\__init__.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorboard\plugins\text\__pycache__
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorboard\plugins\text
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorboard\plugins\text_v2\text_v2_plugin.py
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorboard\plugins\text_v2\__init__.py
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorboard\plugins\text_v2\__pycache__\text_v2_plugin.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorboard\plugins\text_v2\__pycache__\__init__.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorboard\plugins\text_v2\__pycache__
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorboard\plugins\text_v2
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\jedi\third_party\typeshed\third_party\2and3\google\protobuf\source_context_pb2.pyi
+E:\Codes\capg\OrderEntityLayer\EndToEndDB.Context.cs
+E:\Codes\capg\OrderEntityLayer\EndToEndDB.Context.tt
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorboard\__pycache__\context.cpython-37.pyc
+E:\Codes\capg\OrderEntityLayer\obj\Debug\TempPE\EndToEndDB.Context.cs.dll
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\jedi\third_party\typeshed\third_party\3\contextvars.pyi
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\jedi\third_party\typeshed\third_party\3\six\moves\email_mime_text.pyi
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\joblib\externals\loky\backend\context.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\joblib\externals\loky\backend\__pycache__\context.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\keras\preprocessing\text.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\keras\preprocessing\__pycache__\text.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\keras_preprocessing\text.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\keras_preprocessing\__pycache__\text.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\llvmlite\binding\context.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\llvmlite\binding\__pycache__\context.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\llvmlite\ir\context.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\llvmlite\ir\__pycache__\context.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\external\aws\aws-cpp-sdk-core\include\aws\core\client\AsyncCallerContext.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\matplotlib\mathtext.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\matplotlib\text.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\matplotlib\textpath.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\matplotlib\_mathtext.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\matplotlib\_mathtext_data.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\matplotlib\_text_layout.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\matplotlib\tests\test_mathtext.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\matplotlib\tests\test_text.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\matplotlib\tests\__pycache__\test_mathtext.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\matplotlib\tests\__pycache__\test_text.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\matplotlib\__pycache__\mathtext.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\matplotlib\__pycache__\text.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\matplotlib\__pycache__\textpath.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\setuptools\_distutils\text_file.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\matplotlib\__pycache__\_mathtext.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\matplotlib\__pycache__\_mathtext_data.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\matplotlib\__pycache__\_text_layout.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpc++\client_context.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpc++\server_context.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpc++\impl\codegen\client_context.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpc++\impl\codegen\create_auth_context.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpc++\impl\codegen\server_context.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpc++\impl\codegen\security\auth_context.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpc++\security\auth_context.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpcpp\client_context.h
+E:\Codes\Capg Traning\File IO & Serialization\StreamsDemo\Text.csv
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpcpp\server_context.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpcpp\impl\codegen\client_context.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpcpp\impl\codegen\client_context_impl.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpcpp\impl\codegen\create_auth_context.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpcpp\impl\codegen\server_context.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpcpp\impl\codegen\server_context_impl.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpcpp\impl\codegen\security\auth_context.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpcpp\security\auth_context.h
+E:\Codes\Capg Traning\LINQ\[38] Find Distinct Text Using LINQ.linq
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\src\core\ext\transport\chttp2\transport\context_list.h
+E:\Project2\app\env\Lib\site-packages\sklearn\feature_extraction\text.py
+E:\Project2\app\env\Lib\site-packages\sklearn\feature_extraction\tests\test_text.py
+E:\Project2\app\env\Lib\site-packages\sklearn\feature_extraction\tests\__pycache__\test_text.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\sklearn\feature_extraction\__pycache__\text.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\src\core\ext\upb-generated\src\proto\grpc\gcp\altscontext.upb.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\src\core\lib\channel\context.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\src\core\lib\security\context\security_context.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\src\core\lib\security\context
+E:\Codes\Capg Traning\TDDLibrary\packages\System.Runtime.CompilerServices.Unsafe.4.5.3\useSharedDesignerContext.txt
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\src\cpp\common\secure_auth_context.h
+E:\Codes\Capg Traning\TDDLibrary\packages\System.Threading.Tasks.Extensions.4.5.4\useSharedDesignerContext.txt
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\external\icu\icu4c\source\common\unicode\udisplaycontext.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\external\icu\icu4c\source\common\unicode\utext.h
+E:\Project2\app\env\Lib\site-packages\sqlalchemy\orm\context.py
+E:\Project2\app\env\Lib\site-packages\sqlalchemy\orm\__pycache__\context.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\tensorboard\context.py
+E:\Codes\fileio\text.txt
+E:\Codes\fileio\text1.txt
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\external\llvm-project\mlir\include\mlir\IR\MLIRContext.h
+E:\Project2\app\env\Lib\site-packages\tensorboard\plugins\hparams\backend_context.py
+E:\Project2\app\env\Lib\site-packages\tensorboard\plugins\hparams\__pycache__\backend_context.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\tensorboard\plugins\text\metadata.py
+E:\Project2\app\env\Lib\site-packages\tensorboard\plugins\text\plugin_data_pb2.py
+E:\Project2\app\env\Lib\site-packages\tensorboard\plugins\text\summary.py
+E:\Project2\app\env\Lib\site-packages\tensorboard\plugins\text\summary_v2.py
+E:\Project2\app\env\Lib\site-packages\tensorboard\plugins\text\text_plugin.py
+E:\Project2\app\env\Lib\site-packages\tensorboard\plugins\text\__init__.py
+E:\Project2\app\env\Lib\site-packages\tensorboard\plugins\text\__pycache__\metadata.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\tensorboard\plugins\text\__pycache__\plugin_data_pb2.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\tensorboard\plugins\text\__pycache__\summary.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\tensorboard\plugins\text\__pycache__\summary_v2.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\tensorboard\plugins\text\__pycache__\text_plugin.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\tensorboard\plugins\text\__pycache__\__init__.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\tensorboard\plugins\text\__pycache__
+E:\Project2\app\env\Lib\site-packages\tensorboard\plugins\text
+E:\Project2\app\env\Lib\site-packages\tensorboard\plugins\text_v2\text_v2_plugin.py
+E:\Project2\app\env\Lib\site-packages\tensorboard\plugins\text_v2\__init__.py
+E:\Project2\app\env\Lib\site-packages\tensorboard\plugins\text_v2\__pycache__\text_v2_plugin.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\tensorboard\plugins\text_v2\__pycache__\__init__.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\tensorboard\plugins\text_v2\__pycache__
+E:\Project2\app\env\Lib\site-packages\tensorboard\plugins\text_v2
+E:\Codes\test\mysql-connector-java-8.0.23\src\main\protocol-impl\java\com\mysql\cj\protocol\a\MysqlTextValueDecoder.java
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\notebook\static\components\codemirror\mode\textile\textile.js
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\notebook\static\components\codemirror\mode\textile
+E:\Codes\test\mysql-connector-java-8.0.23\src\main\protocol-impl\java\com\mysql\cj\protocol\a\TextResultsetReader.java
+E:\Codes\test\mysql-connector-java-8.0.23\src\main\protocol-impl\java\com\mysql\cj\protocol\a\TextRowFactory.java
+E:\Codes\test\mysql-connector-java-8.0.23\src\main\protocol-impl\java\com\mysql\cj\protocol\a\result\TextBufferRow.java
+E:\Project2\app\env\Lib\site-packages\tensorboard\__pycache__\context.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\notebook\static\components\codemirror\src\edit\fromTextArea.js
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\notebook\static\components\codemirror\src\input\TextareaInput.js
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\notebook\static\components\codemirror\src\model\mark_text.js
+E:\Codes\test\mysql-connector-java-8.0.23\src\test\java\com\mysql\cj\protocol\a\MysqlTextValueDecoderTest.java
+E:\Codes\test\mysql-connector-java-8.0.23\src\test\java\testsuite\MockJndiContextFactory.java
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\notebook\static\components\MathJax\extensions\TeX\text-macros.js
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\external\local_config_python\python_include\context.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\external\local_config_python\python_include\internal\context.h
+E:\Final Year\DS\DS Text book.pdf
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\external\aws\aws-cpp-sdk-core\include\aws\core\client\AsyncCallerContext.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\google\protobuf\parse_context.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\google\protobuf\source_context.pb.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\google\protobuf\text_format.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\google\protobuf\compiler\java\java_context.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\tensorflow\c\eager\abstract_context.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\tensorflow\c\eager\immediate_execution_context.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\tensorflow\c\eager\tfe_context_internal.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\tensorflow\compiler\jit\xla_device_context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\notebook\static\components\requirejs-text\text.js
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\notebook\static\components\requirejs-text
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\notebook\static\components\text-encoding\lib\encoding.js
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\notebook\static\components\text-encoding\lib
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\notebook\static\components\text-encoding
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\notebook\static\notebook\js\contexthint.js
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\notebook\static\notebook\js\textcell.js
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\tensorflow\compiler\mlir\tensorflow\utils\parse_text_proto.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\tensorflow\compiler\tf2xla\xla_context.h
+E:\Final Year\WT\WT softwares\eclipse\configuration\org.eclipse.osgi\106\0\.cp\lib\spring-context-4.0.5.RELEASE.jar
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\tensorflow\compiler\xla\service\hlo_clone_context.h
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpc++\client_context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\numba\core\withcontexts.py
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpc++\server_context.h
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpc++\impl\codegen\client_context.h
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpc++\impl\codegen\create_auth_context.h
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpc++\impl\codegen\server_context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\numba\core\runtime\context.py
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpc++\impl\codegen\security\auth_context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\numba\core\runtime\__pycache__\context.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpc++\security\auth_context.h
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpcpp\client_context.h
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpcpp\server_context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\numba\core\typing\context.py
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\tensorflow\core\common_runtime\gpu_device_context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\numba\core\typing\__pycache__\context.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\tensorflow\core\common_runtime\eager\context.h
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpcpp\impl\codegen\client_context.h
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpcpp\impl\codegen\client_context_impl.h
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpcpp\impl\codegen\create_auth_context.h
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpcpp\impl\codegen\server_context.h
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpcpp\impl\codegen\server_context_impl.h
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpcpp\impl\codegen\security\auth_context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\numba\core\__pycache__\withcontexts.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpcpp\security\auth_context.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\tensorflow\core\framework\attr_value.pb_text-impl.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\tensorflow\core\framework\attr_value.pb_text.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\tensorflow\core\framework\resource_handle.pb_text-impl.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\tensorflow\core\framework\resource_handle.pb_text.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\tensorflow\core\framework\tensor.pb_text-impl.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\tensorflow\core\framework\tensor.pb_text.h
+E:\Final Year\WT\WT softwares\eclipse\configuration\org.eclipse.osgi\298\0\.cp\contexts.xml
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\tensorflow\core\framework\tensor_shape.pb_text-impl.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\tensorflow\core\framework\tensor_shape.pb_text.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\tensorflow\core\framework\types.pb_text-impl.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\tensorflow\core\framework\types.pb_text.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\numba\cuda\tests\cudadrv\test_context_stack.py
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\tensorflow\core\graph\while_context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\numba\cuda\tests\cudadrv\test_cuda_auto_context.py
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\tensorflow\core\grappler\costs\op_context.h
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\src\core\ext\transport\chttp2\transport\context_list.h
+E:\Final Year\WT\WT softwares\eclipse\configuration\org.eclipse.osgi\298\0\.cp\help\EGit\User_Guide\images\01-TextDecorations.png
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\numba\cuda\tests\cudadrv\__pycache__\test_context_stack.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\numba\cuda\tests\cudadrv\__pycache__\test_cuda_auto_context.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\src\core\ext\upb-generated\src\proto\grpc\gcp\altscontext.upb.h
+E:\Final Year\WT\WT softwares\eclipse\configuration\org.eclipse.osgi\298\0\.cp\help\EGit\User_Guide\images\Egit-4.0-git_flow_start_release_from_history_view_context_menu.png
+E:\Final Year\WT\WT softwares\eclipse\configuration\org.eclipse.osgi\298\0\.cp\help\EGit\User_Guide\images\RepoMgrOpenTextEditor.png
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\src\core\lib\channel\context.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\tensorflow\core\kernels\data\text_line_dataset_op.h
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\src\core\lib\security\context\security_context.h
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\src\core\lib\security\context
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\tensorflow\core\lib\strings\proto_text_util.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\tensorflow\core\platform\context.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\include\tensorflow\core\platform\default\context.h
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\src\cpp\common\secure_auth_context.h
+E:\Final Year\WT\WT softwares\eclipse\configuration\org.eclipse.osgi\338\0\.cp\org\eclipse\epp\internal\mpc\ui\wizards\StyledTextHelper$1.class
+E:\Final Year\WT\WT softwares\eclipse\configuration\org.eclipse.osgi\338\0\.cp\org\eclipse\epp\internal\mpc\ui\wizards\StyledTextHelper$2.class
+E:\Final Year\WT\WT softwares\eclipse\configuration\org.eclipse.osgi\338\0\.cp\org\eclipse\epp\internal\mpc\ui\wizards\StyledTextHelper.class
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\external\icu\icu4c\source\common\unicode\udisplaycontext.h
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\external\icu\icu4c\source\common\unicode\utext.h
+E:\Final Year\WT\WT softwares\eclipse\configuration\org.eclipse.osgi\438\0\.cp\org\eclipse\jface\text\source\projection\images\collapsed.png
+E:\Final Year\WT\WT softwares\eclipse\configuration\org.eclipse.osgi\438\0\.cp\org\eclipse\jface\text\source\projection\images\expanded.png
+E:\Final Year\WT\WT softwares\eclipse\configuration\org.eclipse.osgi\438\0\.cp\org\eclipse\jface\text\source\projection\images
+E:\Final Year\WT\WT softwares\eclipse\configuration\org.eclipse.osgi\438\0\.cp\org\eclipse\jface\text\source\projection
+E:\Final Year\WT\WT softwares\eclipse\configuration\org.eclipse.osgi\438\0\.cp\org\eclipse\jface\text\source
+E:\Final Year\WT\WT softwares\eclipse\configuration\org.eclipse.osgi\438\0\.cp\org\eclipse\jface\text
+E:\Final Year\WT\WT softwares\eclipse\configuration\org.eclipse.osgi\484\0\.cp\icons\webuiIcons\initializ_parameter_context.gif
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\keras\preprocessing\text\__init__.py
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\keras\preprocessing\text\__pycache__\__init__.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\keras\preprocessing\text\__pycache__
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\keras\preprocessing\text
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\external\llvm-project\mlir\include\mlir\IR\MLIRContext.h
+E:\Final Year\WT\WT softwares\eclipse\configuration\org.eclipse.osgi\583\0\.cp\helpContext.xml
+E:\Final Year\WT\WT softwares\eclipse\configuration\org.eclipse.osgi\583\0\.cp\org\eclipse\m2e\core\ui\internal\components\TextComboBoxCellEditor$1.class
+E:\Final Year\WT\WT softwares\eclipse\configuration\org.eclipse.osgi\583\0\.cp\org\eclipse\m2e\core\ui\internal\components\TextComboBoxCellEditor$2.class
+E:\Final Year\WT\WT softwares\eclipse\configuration\org.eclipse.osgi\583\0\.cp\org\eclipse\m2e\core\ui\internal\components\TextComboBoxCellEditor.class
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\autograph\utils\context_managers.py
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\autograph\utils\__pycache__\context_managers.cpython-37.pyc
+E:\Final Year\WT\WT softwares\eclipse\configuration\org.eclipse.osgi\583\0\.cp\org\eclipse\m2e\core\ui\internal\util\ProposalUtil$TextProposal.class
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\distribute\distribute_coordinator_context.py
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\distribute\distribution_strategy_context.py
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\distribute\__pycache__\distribute_coordinator_context.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\distribute\__pycache__\distribution_strategy_context.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\eager\context.py
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\eager\__pycache__\context.cpython-37.pyc
+E:\Final Year\WT\WT softwares\eclipse\configuration\org.eclipse.osgi\632\0\.cp\Mylyn\FAQ\Context-and-Timing-data.html
+E:\Final Year\WT\WT softwares\eclipse\configuration\org.eclipse.osgi\632\0\.cp\Mylyn\FAQ\WikiText.html
+E:\Final Year\WT\WT softwares\eclipse\configuration\org.eclipse.osgi\632\0\.cp\Mylyn\User_Guide\images\Feature-Reference-3.0-Add-To-Context.png
+E:\Final Year\WT\WT softwares\eclipse\configuration\org.eclipse.osgi\632\0\.cp\Mylyn\User_Guide\images\Feature-Reference-3.0-Context-Tab.png
+E:\Final Year\WT\WT softwares\eclipse\configuration\org.eclipse.osgi\645\0\.cp\icons\etool16\context-retrieve.gif
+E:\Final Year\WT\WT softwares\eclipse\configuration\org.eclipse.osgi\645\0\.cp\icons\etool16\task-context.gif
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\external\local_config_python\python_include\context.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\keras\api\keras\preprocessing\text\__init__.py
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\keras\api\keras\preprocessing\text\__pycache__\__init__.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\keras\api\keras\preprocessing\text\__pycache__
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\keras\api\keras\preprocessing\text
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\external\local_config_python\python_include\internal\context.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\keras\api\_v1\keras\preprocessing\text\__init__.py
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\keras\api\_v1\keras\preprocessing\text\__pycache__\__init__.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\keras\api\_v1\keras\preprocessing\text\__pycache__
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\keras\api\_v1\keras\preprocessing\text
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\google\protobuf\parse_context.h
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\google\protobuf\source_context.pb.h
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\google\protobuf\text_format.h
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\google\protobuf\compiler\java\java_context.h
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\tensorflow\c\eager\abstract_context.h
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\tensorflow\c\eager\immediate_execution_context.h
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\tensorflow\c\eager\tfe_context_internal.h
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\tensorflow\compiler\jit\xla_device_context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\pandas\tests\io\parser\test_textreader.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\pandas\tests\io\parser\__pycache__\test_textreader.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\keras\api\_v2\keras\preprocessing\text\__init__.py
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\keras\api\_v2\keras\preprocessing\text\__pycache__\__init__.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\keras\api\_v2\keras\preprocessing\text\__pycache__
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\keras\api\_v2\keras\preprocessing\text
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\tensorflow\compiler\mlir\tensorflow\utils\parse_text_proto.h
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\tensorflow\compiler\tf2xla\xla_context.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\keras\layers\preprocessing\text_vectorization.py
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\keras\layers\preprocessing\text_vectorization_v1.py
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\keras\layers\preprocessing\__pycache__\text_vectorization.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\keras\layers\preprocessing\__pycache__\text_vectorization_v1.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\tensorflow\compiler\xla\service\hlo_clone_context.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\keras\preprocessing\text.py
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\keras\preprocessing\text_dataset.py
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\keras\preprocessing\__pycache__\text.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\keras\preprocessing\__pycache__\text_dataset.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\tensorflow\core\common_runtime\gpu_device_context.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\keras\utils\tf_contextlib.py
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\keras\utils\__pycache__\tf_contextlib.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\tensorflow\core\common_runtime\eager\context.h
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\tensorflow\core\framework\attr_value.pb_text-impl.h
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\tensorflow\core\framework\attr_value.pb_text.h
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\tensorflow\core\framework\resource_handle.pb_text-impl.h
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\tensorflow\core\framework\resource_handle.pb_text.h
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\tensorflow\core\framework\tensor.pb_text-impl.h
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\tensorflow\core\framework\tensor.pb_text.h
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\tensorflow\core\framework\tensor_shape.pb_text-impl.h
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\tensorflow\core\framework\tensor_shape.pb_text.h
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\tensorflow\core\framework\types.pb_text-impl.h
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\tensorflow\core\framework\types.pb_text.h
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\tensorflow\core\graph\while_context.h
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\tensorflow\core\grappler\costs\op_context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\pbr\tests\testpackage\src\testext.c
+E:\Final Year\WT\WT softwares\eclipse\configuration\org.eclipse.osgi\927\0\.cp\icons\full\obj16\text.gif
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\tensorflow\core\kernels\data\text_line_dataset_op.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\platform\device_context.py
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\platform\__pycache__\device_context.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\saved_model\load_context.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\pip\_internal\cli\command_context.py
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\saved_model\save_context.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\pip\_internal\cli\__pycache__\command_context.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\saved_model\__pycache__\load_context.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\saved_model\__pycache__\save_context.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\tensorflow\core\lib\strings\proto_text_util.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\tpu\tpu_context.py
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\tensorflow\core\platform\context.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\tpu\__pycache__\tpu_context.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\tensorflow\include\tensorflow\core\platform\default\context.h
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\training\distribution_strategy_context.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\pip\_vendor\contextlib2.py
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\training\__pycache__\distribution_strategy_context.cpython-37.pyc
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\util\tf_contextlib.py
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow\python\util\__pycache__\tf_contextlib.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\pip\_vendor\__pycache__\contextlib2.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\prometheus_client\context_managers.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\prometheus_client\__pycache__\context_managers.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\prompt_toolkit\eventloop\async_context_manager.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\prompt_toolkit\eventloop\dummy_contextvars.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\prompt_toolkit\eventloop\__pycache__\async_context_manager.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\prompt_toolkit\eventloop\__pycache__\dummy_contextvars.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\prompt_toolkit\formatted_text\ansi.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\prompt_toolkit\formatted_text\base.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\prompt_toolkit\formatted_text\html.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\prompt_toolkit\formatted_text\pygments.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\prompt_toolkit\formatted_text\utils.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\prompt_toolkit\formatted_text\__init__.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\prompt_toolkit\formatted_text\__pycache__\ansi.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\prompt_toolkit\formatted_text\__pycache__\base.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\prompt_toolkit\formatted_text\__pycache__\html.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\prompt_toolkit\formatted_text\__pycache__\pygments.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\prompt_toolkit\formatted_text\__pycache__\utils.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\prompt_toolkit\formatted_text\__pycache__\__init__.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\prompt_toolkit\formatted_text\__pycache__
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\prompt_toolkit\formatted_text
+E:\Project2\app\env\Lib\site-packages\tensorflow\keras\preprocessing\text\__init__.py
+E:\Project2\app\env\Lib\site-packages\tensorflow\keras\preprocessing\text\__pycache__\__init__.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\tensorflow\keras\preprocessing\text\__pycache__
+E:\Project2\app\env\Lib\site-packages\tensorflow\keras\preprocessing\text
+E:\Final Year\WT\WT softwares\eclipse\features\org.eclipse.mylyn.context_feature_3.24.0.v20170629-2230\epl-v10.html
+E:\Final Year\WT\WT softwares\eclipse\features\org.eclipse.mylyn.context_feature_3.24.0.v20170629-2230\feature.properties
+E:\Final Year\WT\WT softwares\eclipse\features\org.eclipse.mylyn.context_feature_3.24.0.v20170629-2230\feature.xml
+E:\Final Year\WT\WT softwares\eclipse\features\org.eclipse.mylyn.context_feature_3.24.0.v20170629-2230\license.html
+E:\Final Year\WT\WT softwares\eclipse\features\org.eclipse.mylyn.context_feature_3.24.0.v20170629-2230\META-INF\eclipse.inf
+E:\Final Year\WT\WT softwares\eclipse\features\org.eclipse.mylyn.context_feature_3.24.0.v20170629-2230\META-INF\ECLIPSE_.RSA
+E:\Final Year\WT\WT softwares\eclipse\features\org.eclipse.mylyn.context_feature_3.24.0.v20170629-2230\META-INF\ECLIPSE_.SF
+E:\Final Year\WT\WT softwares\eclipse\features\org.eclipse.mylyn.context_feature_3.24.0.v20170629-2230\META-INF\MANIFEST.MF
+E:\Final Year\WT\WT softwares\eclipse\features\org.eclipse.mylyn.context_feature_3.24.0.v20170629-2230\META-INF
+E:\Final Year\WT\WT softwares\eclipse\features\org.eclipse.mylyn.context_feature_3.24.0.v20170629-2230
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\autograph\utils\context_managers.py
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\autograph\utils\__pycache__\context_managers.cpython-37.pyc
+E:\Final Year\WT\WT softwares\eclipse\features\org.eclipse.mylyn.wikitext.editors_feature_3.0.19.201711172000\epl-v10.html
+E:\Final Year\WT\WT softwares\eclipse\features\org.eclipse.mylyn.wikitext.editors_feature_3.0.19.201711172000\feature.properties
+E:\Final Year\WT\WT softwares\eclipse\features\org.eclipse.mylyn.wikitext.editors_feature_3.0.19.201711172000\feature.xml
+E:\Final Year\WT\WT softwares\eclipse\features\org.eclipse.mylyn.wikitext.editors_feature_3.0.19.201711172000\license.html
+E:\Final Year\WT\WT softwares\eclipse\features\org.eclipse.mylyn.wikitext.editors_feature_3.0.19.201711172000\META-INF\ECLIPSE_.RSA
+E:\Final Year\WT\WT softwares\eclipse\features\org.eclipse.mylyn.wikitext.editors_feature_3.0.19.201711172000\META-INF\ECLIPSE_.SF
+E:\Final Year\WT\WT softwares\eclipse\features\org.eclipse.mylyn.wikitext.editors_feature_3.0.19.201711172000\META-INF\MANIFEST.MF
+E:\Final Year\WT\WT softwares\eclipse\features\org.eclipse.mylyn.wikitext.editors_feature_3.0.19.201711172000\META-INF
+E:\Final Year\WT\WT softwares\eclipse\features\org.eclipse.mylyn.wikitext.editors_feature_3.0.19.201711172000
+E:\Final Year\WT\WT softwares\eclipse\features\org.eclipse.mylyn.wikitext_feature_3.0.19.201711172000\epl-v10.html
+E:\Final Year\WT\WT softwares\eclipse\features\org.eclipse.mylyn.wikitext_feature_3.0.19.201711172000\feature.properties
+E:\Final Year\WT\WT softwares\eclipse\features\org.eclipse.mylyn.wikitext_feature_3.0.19.201711172000\feature.xml
+E:\Final Year\WT\WT softwares\eclipse\features\org.eclipse.mylyn.wikitext_feature_3.0.19.201711172000\license.html
+E:\Final Year\WT\WT softwares\eclipse\features\org.eclipse.mylyn.wikitext_feature_3.0.19.201711172000\META-INF\ECLIPSE_.RSA
+E:\Final Year\WT\WT softwares\eclipse\features\org.eclipse.mylyn.wikitext_feature_3.0.19.201711172000\META-INF\ECLIPSE_.SF
+E:\Final Year\WT\WT softwares\eclipse\features\org.eclipse.mylyn.wikitext_feature_3.0.19.201711172000\META-INF\MANIFEST.MF
+E:\Final Year\WT\WT softwares\eclipse\features\org.eclipse.mylyn.wikitext_feature_3.0.19.201711172000\META-INF
+E:\Final Year\WT\WT softwares\eclipse\features\org.eclipse.mylyn.wikitext_feature_3.0.19.201711172000
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\pygments\lexers\text.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\pygments\lexers\textedit.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\pygments\lexers\textfmts.py
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\distribute\distribute_coordinator_context.py
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\distribute\distribution_strategy_context.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\pygments\lexers\__pycache__\text.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\pygments\lexers\__pycache__\textedit.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\pygments\lexers\__pycache__\textfmts.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\distribute\__pycache__\distribute_coordinator_context.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\distribute\__pycache__\distribution_strategy_context.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\eager\context.py
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\eager\__pycache__\context.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\pylint\reporters\text.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\pylint\reporters\ureports\text_writer.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\pylint\reporters\ureports\__pycache__\text_writer.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\pylint\reporters\__pycache__\text.cpython-37.pyc
+E:\Final Year\WT\WT softwares\eclipse\plugins\org.eclipse.datatools.connectivity.doc.user.contexts_1.7.100.201801242337.jar
+E:\Final Year\WT\WT softwares\eclipse\plugins\org.eclipse.datatools.sqltools.doc.user.contexts_1.7.100.201801242337.jar
+E:\Final Year\WT\WT softwares\eclipse\plugins\org.eclipse.e4.core.contexts_1.7.0.v20180514-1409.jar
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\keras\api\keras\preprocessing\text\__init__.py
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\keras\api\keras\preprocessing\text\__pycache__\__init__.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\keras\api\keras\preprocessing\text\__pycache__
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\keras\api\keras\preprocessing\text
+E:\Final Year\WT\WT softwares\eclipse\plugins\org.eclipse.jface.text_3.13.0.v20180527-1819.jar
+E:\Final Year\WT\WT softwares\eclipse\plugins\org.eclipse.mylyn.context.core_3.24.0.v20170629-2230.jar
+E:\Final Year\WT\WT softwares\eclipse\plugins\org.eclipse.mylyn.context.tasks.ui_3.24.0.v20170629-2230.jar
+E:\Final Year\WT\WT softwares\eclipse\plugins\org.eclipse.mylyn.context.ui_3.24.0.v20170629-2230.jar
+E:\Final Year\WT\WT softwares\eclipse\plugins\org.eclipse.mylyn.wikitext.ant_3.0.19.20171117145831.jar
+E:\Final Year\WT\WT softwares\eclipse\plugins\org.eclipse.mylyn.wikitext.asciidoc.ui_3.0.19.201711172000.jar
+E:\Final Year\WT\WT softwares\eclipse\plugins\org.eclipse.mylyn.wikitext.asciidoc_3.0.19.20171117145831.jar
+E:\Final Year\WT\WT softwares\eclipse\plugins\org.eclipse.mylyn.wikitext.confluence.ui_3.0.19.201711172000.jar
+E:\Final Year\WT\WT softwares\eclipse\plugins\org.eclipse.mylyn.wikitext.confluence_3.0.19.20171117145831.jar
+E:\Final Year\WT\WT softwares\eclipse\plugins\org.eclipse.mylyn.wikitext.context.ui_3.0.19.201711172000.jar
+E:\Final Year\WT\WT softwares\eclipse\plugins\org.eclipse.mylyn.wikitext.help.ui_3.0.19.201711172000.jar
+E:\Final Year\WT\WT softwares\eclipse\plugins\org.eclipse.mylyn.wikitext.html_3.0.19.20171117145831.jar
+E:\Final Year\WT\WT softwares\eclipse\plugins\org.eclipse.mylyn.wikitext.markdown.ui_3.0.19.201711172000.jar
+E:\Final Year\WT\WT softwares\eclipse\plugins\org.eclipse.mylyn.wikitext.markdown_3.0.19.20171117145831.jar
+E:\Final Year\WT\WT softwares\eclipse\plugins\org.eclipse.mylyn.wikitext.mediawiki.ui_3.0.19.201711172000.jar
+E:\Final Year\WT\WT softwares\eclipse\plugins\org.eclipse.mylyn.wikitext.mediawiki_3.0.19.20171117145831.jar
+E:\Final Year\WT\WT softwares\eclipse\plugins\org.eclipse.mylyn.wikitext.osgi_3.0.19.201711172000.jar
+E:\Final Year\WT\WT softwares\eclipse\plugins\org.eclipse.mylyn.wikitext.tasks.ui_3.0.19.201711172000.jar
+E:\Final Year\WT\WT softwares\eclipse\plugins\org.eclipse.mylyn.wikitext.textile.ui_3.0.19.201711172000.jar
+E:\Final Year\WT\WT softwares\eclipse\plugins\org.eclipse.mylyn.wikitext.textile_3.0.19.20171117145831.jar
+E:\Final Year\WT\WT softwares\eclipse\plugins\org.eclipse.mylyn.wikitext.tracwiki.ui_3.0.19.201711172000.jar
+E:\Final Year\WT\WT softwares\eclipse\plugins\org.eclipse.mylyn.wikitext.tracwiki_3.0.19.20171117145831.jar
+E:\Final Year\WT\WT softwares\eclipse\plugins\org.eclipse.mylyn.wikitext.twiki.ui_3.0.19.201711172000.jar
+E:\Final Year\WT\WT softwares\eclipse\plugins\org.eclipse.mylyn.wikitext.twiki_3.0.19.20171117145831.jar
+E:\Final Year\WT\WT softwares\eclipse\plugins\org.eclipse.mylyn.wikitext.ui_3.0.19.201711172000.jar
+E:\Final Year\WT\WT softwares\eclipse\plugins\org.eclipse.mylyn.wikitext_3.0.19.20171117145831.jar
+E:\Final Year\WT\WT softwares\eclipse\plugins\org.eclipse.text_3.6.300.v20180430-1330.jar
+E:\Final Year\WT\WT softwares\eclipse\plugins\org.eclipse.ui.workbench.texteditor_3.11.0.v20180419-2011.jar
+E:\Final Year\WT\WT softwares\eclipse\plugins\org.apache.ant_1.10.3.v20180417-1627\etc\checkstyle\checkstyle-text.xsl
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\keras\api\_v1\keras\preprocessing\text\__init__.py
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\keras\api\_v1\keras\preprocessing\text\__pycache__\__init__.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\keras\api\_v1\keras\preprocessing\text\__pycache__
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\keras\api\_v1\keras\preprocessing\text
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow_estimator\python\estimator\tpu\tpu_context.py
+E:\Project2 - Copy\app\env\Lib\site-packages\tensorflow_estimator\python\estimator\tpu\__pycache__\tpu_context.cpython-37.pyc
+E:\Final Year\WT\WT softwares\eclipse\plugins\org.eclipse.m2e.maven.indexer_1.9.0.20180606-2035\org\apache\maven\index\ArtifactContext$ModelReader.class
+E:\Final Year\WT\WT softwares\eclipse\plugins\org.eclipse.m2e.maven.indexer_1.9.0.20180606-2035\org\apache\maven\index\ArtifactContext.class
+E:\Final Year\WT\WT softwares\eclipse\plugins\org.eclipse.m2e.maven.indexer_1.9.0.20180606-2035\org\apache\maven\index\ArtifactContextProducer.class
+E:\Final Year\WT\WT softwares\eclipse\plugins\org.eclipse.m2e.maven.indexer_1.9.0.20180606-2035\org\apache\maven\index\DefaultArtifactContextProducer.class
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\keras\api\_v2\keras\preprocessing\text\__init__.py
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\keras\api\_v2\keras\preprocessing\text\__pycache__\__init__.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\keras\api\_v2\keras\preprocessing\text\__pycache__
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\keras\api\_v2\keras\preprocessing\text
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\keras\layers\preprocessing\text_vectorization.py
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\keras\layers\preprocessing\text_vectorization_v1.py
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\keras\layers\preprocessing\__pycache__\text_vectorization.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\keras\layers\preprocessing\__pycache__\text_vectorization_v1.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\keras\preprocessing\text.py
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\keras\preprocessing\text_dataset.py
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\keras\preprocessing\__pycache__\text.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\keras\preprocessing\__pycache__\text_dataset.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\keras\utils\tf_contextlib.py
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\keras\utils\__pycache__\tf_contextlib.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\platform\device_context.py
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\platform\__pycache__\device_context.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\saved_model\load_context.py
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\saved_model\save_context.py
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\saved_model\__pycache__\load_context.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\saved_model\__pycache__\save_context.cpython-37.pyc
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\configuration\org.eclipse.osgi\280\0\.cp\org\eclipse\jface\text\source\projection\images\collapsed.png
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\configuration\org.eclipse.osgi\280\0\.cp\org\eclipse\jface\text\source\projection\images\expanded.png
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\configuration\org.eclipse.osgi\280\0\.cp\org\eclipse\jface\text\source\projection\images
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\configuration\org.eclipse.osgi\280\0\.cp\org\eclipse\jface\text\source\projection
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\configuration\org.eclipse.osgi\280\0\.cp\org\eclipse\jface\text\source
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\configuration\org.eclipse.osgi\280\0\.cp\org\eclipse\jface\text
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\tpu\tpu_context.py
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\tpu\__pycache__\tpu_context.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\training\distribution_strategy_context.py
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\training\__pycache__\distribution_strategy_context.cpython-37.pyc
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\util\tf_contextlib.py
+E:\Project2\app\env\Lib\site-packages\tensorflow\python\util\__pycache__\tf_contextlib.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\setuptools\_distutils\text_file.py
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\configuration\org.eclipse.osgi\493\0\.cp\icons\full\etool16\new_untitled_text_file.png
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\sklearn\feature_extraction\text.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\sklearn\feature_extraction\tests\test_text.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\sklearn\feature_extraction\tests\__pycache__\test_text.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\sklearn\feature_extraction\__pycache__\text.cpython-37.pyc
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\configuration\org.eclipse.osgi\598\0\.cp\icons\full\obj16\text.gif
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\configuration\org.eclipse.osgi\650\0\.cp\org\slf4j\helpers\Util$ClassContextSecurityManager.class
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorboard\context.py
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\features\org.eclipse.mylyn.wikitext.editors_feature_3.0.38.202008172112\epl-2.0.html
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\features\org.eclipse.mylyn.wikitext.editors_feature_3.0.38.202008172112\feature.properties
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\features\org.eclipse.mylyn.wikitext.editors_feature_3.0.38.202008172112\feature.xml
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\features\org.eclipse.mylyn.wikitext.editors_feature_3.0.38.202008172112\license.html
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\features\org.eclipse.mylyn.wikitext.editors_feature_3.0.38.202008172112\META-INF\ECLIPSE_.RSA
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\features\org.eclipse.mylyn.wikitext.editors_feature_3.0.38.202008172112\META-INF\ECLIPSE_.SF
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\features\org.eclipse.mylyn.wikitext.editors_feature_3.0.38.202008172112\META-INF\MANIFEST.MF
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\features\org.eclipse.mylyn.wikitext.editors_feature_3.0.38.202008172112\META-INF
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\features\org.eclipse.mylyn.wikitext.editors_feature_3.0.38.202008172112
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorboard\plugins\hparams\backend_context.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorboard\plugins\hparams\__pycache__\backend_context.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorboard\plugins\text\metadata.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorboard\plugins\text\plugin_data_pb2.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorboard\plugins\text\summary.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorboard\plugins\text\summary_v2.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorboard\plugins\text\text_plugin.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorboard\plugins\text\__init__.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorboard\plugins\text\__pycache__\metadata.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorboard\plugins\text\__pycache__\plugin_data_pb2.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorboard\plugins\text\__pycache__\summary.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorboard\plugins\text\__pycache__\summary_v2.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorboard\plugins\text\__pycache__\text_plugin.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorboard\plugins\text\__pycache__\__init__.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorboard\plugins\text\__pycache__
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorboard\plugins\text
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorboard\plugins\text_v2\text_v2_plugin.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorboard\plugins\text_v2\__init__.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorboard\plugins\text_v2\__pycache__\text_v2_plugin.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorboard\plugins\text_v2\__pycache__\__init__.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorboard\plugins\text_v2\__pycache__
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorboard\plugins\text_v2
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorboard\__pycache__\context.cpython-37.pyc
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\io.grpc.grpc-context_1.29.0.v20200515-2048.jar
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.e4.core.contexts_1.8.400.v20191217-1710.jar
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.jface.text_3.16.400.v20200807-0831.jar
+E:\Project2\app\env\Lib\site-packages\tensorflow_estimator\python\estimator\tpu\tpu_context.py
+E:\Project2\app\env\Lib\site-packages\tensorflow_estimator\python\estimator\tpu\__pycache__\tpu_context.cpython-37.pyc
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.mylyn.wikitext.ant_3.0.38.20200817211131.jar
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.mylyn.wikitext.asciidoc.ui_3.0.38.202008172112.jar
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.mylyn.wikitext.asciidoc_3.0.38.20200817211131.jar
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.mylyn.wikitext.confluence.ui_3.0.38.202008172112.jar
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.mylyn.wikitext.confluence_3.0.38.20200817211131.jar
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.mylyn.wikitext.help.ui_3.0.38.202008172112.jar
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.mylyn.wikitext.html_3.0.38.20200817211131.jar
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.mylyn.wikitext.markdown.ui_3.0.38.202008172112.jar
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.mylyn.wikitext.markdown_3.0.38.20200817211131.jar
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.mylyn.wikitext.mediawiki.ui_3.0.38.202008172112.jar
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.mylyn.wikitext.mediawiki_3.0.38.20200817211131.jar
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.mylyn.wikitext.osgi_3.0.38.202008172112.jar
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.mylyn.wikitext.textile.ui_3.0.38.202008172112.jar
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.mylyn.wikitext.textile_3.0.38.20200817211131.jar
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.mylyn.wikitext.tracwiki.ui_3.0.38.202008172112.jar
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.mylyn.wikitext.tracwiki_3.0.38.20200817211131.jar
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.mylyn.wikitext.twiki.ui_3.0.38.202008172112.jar
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.mylyn.wikitext.twiki_3.0.38.20200817211131.jar
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.mylyn.wikitext.ui_3.0.38.202008172112.jar
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.mylyn.wikitext_3.0.38.20200817211131.jar
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.text.quicksearch_1.0.300.v20200519-2023.jar
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.text_3.10.300.v20200807-0831.jar
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.ui.workbench.texteditor_3.15.0.v20200812-2334.jar
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.xtext.xbase.lib_2.23.0.v20200831-0723.jar
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\javax.xml.soap_1.3.0.v201105210645\javax\xml\soap\Text.class
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.apache.ant_1.10.8.v20200515-1239\etc\checkstyle\checkstyle-text.xsl
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\external\aws\aws-cpp-sdk-core\include\aws\core\client\AsyncCallerContext.h
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.linuxtools.docker.editor.ls_1.0.0.202009091443\language-server\node_modules\dockerfile-language-service\lib\dockerPlainText.d.ts
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.linuxtools.docker.editor.ls_1.0.0.202009091443\language-server\node_modules\dockerfile-language-service\lib\dockerPlainText.js
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.m2e.maven.indexer_1.16.0.20200610-1735\org\apache\maven\index\ArtifactContext$ModelReader.class
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.m2e.maven.indexer_1.16.0.20200610-1735\org\apache\maven\index\ArtifactContext.class
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.m2e.maven.indexer_1.16.0.20200610-1735\org\apache\maven\index\ArtifactContextProducer.class
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.m2e.maven.indexer_1.16.0.20200610-1735\org\apache\maven\index\DefaultArtifactContextProducer.class
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpc++\client_context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpc++\server_context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpc++\impl\codegen\client_context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpc++\impl\codegen\create_auth_context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpc++\impl\codegen\server_context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpc++\impl\codegen\security\auth_context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpc++\security\auth_context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpcpp\client_context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpcpp\server_context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpcpp\impl\codegen\client_context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpcpp\impl\codegen\client_context_impl.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpcpp\impl\codegen\create_auth_context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpcpp\impl\codegen\server_context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpcpp\impl\codegen\server_context_impl.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpcpp\impl\codegen\security\auth_context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\include\grpcpp\security\auth_context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\src\core\ext\transport\chttp2\transport\context_list.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\src\core\ext\upb-generated\src\proto\grpc\gcp\altscontext.upb.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\src\core\lib\channel\context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\src\core\lib\security\context\security_context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\src\core\lib\security\context
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\external\com_github_grpc_grpc\src\cpp\common\secure_auth_context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\external\icu\icu4c\source\common\unicode\udisplaycontext.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\external\icu\icu4c\source\common\unicode\utext.h
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\emoji-regex\text.js
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\emoji-regex\es2015\text.js
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\enquirer\lib\prompts\text.js
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\eslint\lib\linter\code-path-analysis\fork-context.js
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\external\llvm-project\mlir\include\mlir\IR\MLIRContext.h
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\less\lib\less\contexts.js
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\less\lib\less\contexts.js.map
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\external\local_config_python\python_include\context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\external\local_config_python\python_include\internal\context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\google\protobuf\parse_context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\google\protobuf\source_context.pb.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\google\protobuf\text_format.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\google\protobuf\compiler\java\java_context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\tensorflow\c\eager\abstract_context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\tensorflow\c\eager\immediate_execution_context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\tensorflow\c\eager\tfe_context_internal.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\tensorflow\compiler\jit\xla_device_context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\tensorflow\compiler\mlir\tensorflow\utils\parse_text_proto.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\tensorflow\compiler\tf2xla\xla_context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\tensorflow\compiler\xla\service\hlo_clone_context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\tensorflow\core\common_runtime\gpu_device_context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\tensorflow\core\common_runtime\eager\context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\tensorflow\core\framework\attr_value.pb_text-impl.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\tensorflow\core\framework\attr_value.pb_text.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\tensorflow\core\framework\resource_handle.pb_text-impl.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\tensorflow\core\framework\resource_handle.pb_text.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\tensorflow\core\framework\tensor.pb_text-impl.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\tensorflow\core\framework\tensor.pb_text.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\tensorflow\core\framework\tensor_shape.pb_text-impl.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\tensorflow\core\framework\tensor_shape.pb_text.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\tensorflow\core\framework\types.pb_text-impl.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\tensorflow\core\framework\types.pb_text.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\tensorflow\core\graph\while_context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\tensorflow\core\grappler\costs\op_context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\tensorflow\core\kernels\data\text_line_dataset_op.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\tensorflow\core\lib\strings\proto_text_util.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\tensorflow\core\platform\context.h
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\include\tensorflow\core\platform\default\context.h
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\text-table\.travis.yml
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\text-table\index.js
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\text-table\LICENSE
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\text-table\package.json
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\text-table\readme.markdown
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\text-table\example\align.js
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\text-table\example\center.js
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\text-table\example\dotalign.js
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\text-table\example\doubledot.js
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\text-table\example\table.js
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\text-table\example
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\text-table\test\align.js
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\text-table\test\ansi-colors.js
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\text-table\test\center.js
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\text-table\test\dotalign.js
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\text-table\test\doubledot.js
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\text-table\test\table.js
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\text-table\test
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\text-table
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\typescript\ThirdPartyNoticeText.txt
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\typescript-template-language-service-decorator\lib\template-context.d.ts
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\typescript-template-language-service-decorator\lib\template-context.js
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\keras\preprocessing\text\__init__.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\keras\preprocessing\text\__pycache__\__init__.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\keras\preprocessing\text\__pycache__
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\keras\preprocessing\text
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\autograph\utils\context_managers.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\autograph\utils\__pycache__\context_managers.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\distribute\distribute_coordinator_context.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\distribute\distribution_strategy_context.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\distribute\__pycache__\distribute_coordinator_context.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\distribute\__pycache__\distribution_strategy_context.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\eager\context.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\eager\__pycache__\context.cpython-37.pyc
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-languageserver-textdocument\.eslintignore
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-languageserver-textdocument\License.txt
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-languageserver-textdocument\package.json
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-languageserver-textdocument\README.md
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-languageserver-textdocument\tsconfig.esm.json
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-languageserver-textdocument\lib\tsconfig.esm.tsbuildInfo
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-languageserver-textdocument\lib\esm\main.d.ts
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\keras\api\keras\preprocessing\text\__init__.py
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-languageserver-textdocument\lib\esm\main.js
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-languageserver-textdocument\lib\esm
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\keras\api\keras\preprocessing\text\__pycache__\__init__.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\keras\api\keras\preprocessing\text\__pycache__
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\keras\api\keras\preprocessing\text
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-languageserver-textdocument\lib\umd\main.d.ts
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-languageserver-textdocument\lib\umd\main.js
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-languageserver-textdocument\lib\umd
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-languageserver-textdocument\lib
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-languageserver-textdocument
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-textbuffer\jest.config.js
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-textbuffer\LICENSE
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-textbuffer\package.json
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-textbuffer\README.md
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-textbuffer\tsconfig.json
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-textbuffer\lib\index.d.ts
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-textbuffer\lib\index.js
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-textbuffer\lib\pieceTreeBase.d.ts
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-textbuffer\lib\pieceTreeBase.js
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-textbuffer\lib\pieceTreeBuilder.d.ts
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-textbuffer\lib\pieceTreeBuilder.js
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-textbuffer\lib\rbTreeBase.d.ts
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-textbuffer\lib\rbTreeBase.js
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-textbuffer\lib\common\charCode.d.ts
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-textbuffer\lib\common\charCode.js
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-textbuffer\lib\common\position.d.ts
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-textbuffer\lib\common\position.js
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-textbuffer\lib\common\range.d.ts
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-textbuffer\lib\common\range.js
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-textbuffer\lib\common
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-textbuffer\lib\test\piecetree.test.d.ts
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-textbuffer\lib\test\piecetree.test.js
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-textbuffer\lib\test
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-textbuffer\lib
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-textbuffer\src\index.ts
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-textbuffer\src\pieceTreeBase.ts
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-textbuffer\src\pieceTreeBuilder.ts
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-textbuffer\src\rbTreeBase.ts
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-textbuffer\src\common\charCode.ts
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-textbuffer\src\common\position.ts
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-textbuffer\src\common\range.ts
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-textbuffer\src\common
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-textbuffer\src\test\piecetree.test.ts
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-textbuffer\src\test
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-textbuffer\src
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_0.5.10.202008281220\node_modules\vscode-textbuffer
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\keras\api\_v1\keras\preprocessing\text\__init__.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\keras\api\_v1\keras\preprocessing\text\__pycache__\__init__.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\keras\api\_v1\keras\preprocessing\text\__pycache__
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\keras\api\_v1\keras\preprocessing\text
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.23.0.202010230633\servers\spring-boot-language-server\BOOT-INF\classes\org\springframework\ide\vscode\boot\java\jdt\imports\ImportRewrite$ImportRewriteContext.class
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\keras\api\_v2\keras\preprocessing\text\__init__.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\keras\api\_v2\keras\preprocessing\text\__pycache__\__init__.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\keras\api\_v2\keras\preprocessing\text\__pycache__
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\keras\api\_v2\keras\preprocessing\text
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.23.0.202010230633\servers\spring-boot-language-server\BOOT-INF\classes\org\springframework\ide\vscode\boot\java\livehover\v2\LiveContextPathUtil.class
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.23.0.202010230633\servers\spring-boot-language-server\BOOT-INF\classes\org\springframework\ide\vscode\boot\java\snippets\JavaSnippetContext.class
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.23.0.202010230633\servers\spring-boot-language-server\BOOT-INF\classes\org\springframework\ide\vscode\boot\java\utils\SpringIndexerJavaContext.class
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.23.0.202010230633\servers\spring-boot-language-server\BOOT-INF\classes\org\springframework\ide\vscode\boot\yaml\completions\ApplicationYamlAssistContext$1.class
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.23.0.202010230633\servers\spring-boot-language-server\BOOT-INF\classes\org\springframework\ide\vscode\boot\yaml\completions\ApplicationYamlAssistContext$IndexContext.class
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.23.0.202010230633\servers\spring-boot-language-server\BOOT-INF\classes\org\springframework\ide\vscode\boot\yaml\completions\ApplicationYamlAssistContext$TypeContext.class
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.23.0.202010230633\servers\spring-boot-language-server\BOOT-INF\classes\org\springframework\ide\vscode\boot\yaml\completions\ApplicationYamlAssistContext.class
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\keras\layers\preprocessing\text_vectorization.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\keras\layers\preprocessing\text_vectorization_v1.py
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.23.0.202010230633\servers\spring-boot-language-server\BOOT-INF\lib\org.eclipse.text-3.10.300.jar
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.23.0.202010230633\servers\spring-boot-language-server\BOOT-INF\lib\org.eclipse.xtext.xbase.lib-2.19.0.jar
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\keras\layers\preprocessing\__pycache__\text_vectorization.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\keras\layers\preprocessing\__pycache__\text_vectorization_v1.cpython-37.pyc
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.23.0.202010230633\servers\spring-boot-language-server\BOOT-INF\lib\spring-context-5.2.5.RELEASE.jar
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.23.0.202010230633\servers\spring-boot-language-server\BOOT-INF\lib\spring-context-indexer-5.2.5.RELEASE.jar
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\keras\preprocessing\text.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\keras\preprocessing\text_dataset.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\keras\preprocessing\__pycache__\text.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\keras\preprocessing\__pycache__\text_dataset.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\keras\utils\tf_contextlib.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\keras\utils\__pycache__\tf_contextlib.cpython-37.pyc
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.springframework.tooling.bosh.ls_1.23.0.202010230633\servers\bosh-language-server\BOOT-INF\lib\org.eclipse.xtext.xbase.lib-2.19.0.jar
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.springframework.tooling.bosh.ls_1.23.0.202010230633\servers\bosh-language-server\BOOT-INF\lib\spring-context-5.2.5.RELEASE.jar
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.springframework.tooling.cloudfoundry.manifest.ls_1.23.0.202010230633\servers\manifest-yaml-language-server\BOOT-INF\lib\org.eclipse.xtext.xbase.lib-2.19.0.jar
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\platform\device_context.py
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.springframework.tooling.cloudfoundry.manifest.ls_1.23.0.202010230633\servers\manifest-yaml-language-server\BOOT-INF\lib\spring-context-5.2.5.RELEASE.jar
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\platform\__pycache__\device_context.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\saved_model\load_context.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\saved_model\save_context.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\saved_model\__pycache__\load_context.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\saved_model\__pycache__\save_context.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\tpu\tpu_context.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\tpu\__pycache__\tpu_context.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\training\distribution_strategy_context.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\training\__pycache__\distribution_strategy_context.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\util\tf_contextlib.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow\python\util\__pycache__\tf_contextlib.cpython-37.pyc
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.springframework.tooling.concourse.ls_1.23.0.202010230633\servers\concourse-language-server\BOOT-INF\classes\desc\S3Source\initial_content_text.md
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.springframework.tooling.concourse.ls_1.23.0.202010230633\servers\concourse-language-server\BOOT-INF\lib\org.eclipse.xtext.xbase.lib-2.19.0.jar
+E:\Final Year\WT\WT softwares\sts-4.8.1.RELEASE\plugins\org.springframework.tooling.concourse.ls_1.23.0.202010230633\servers\concourse-language-server\BOOT-INF\lib\spring-context-5.2.5.RELEASE.jar
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow_estimator\python\estimator\tpu\tpu_context.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tensorflow_estimator\python\estimator\tpu\__pycache__\tpu_context.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tornado\test\gettext_translations\fr_FR\LC_MESSAGES\tornado_test.mo
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tornado\test\gettext_translations\fr_FR\LC_MESSAGES\tornado_test.po
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tornado\test\gettext_translations\fr_FR\LC_MESSAGES
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tornado\test\gettext_translations\fr_FR
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\tornado\test\gettext_translations
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\win32comext\axdebug\contexts.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\win32comext\axdebug\__pycache__\contexts.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\win32comext\axscript\Demos\client\ie\MarqueeText1.htm
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\win32comext\shell\demos\servers\context_menu.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\win32comext\shell\demos\servers\__pycache__\context_menu.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\zmq\backend\cffi\context.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\zmq\backend\cffi\__pycache__\context.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\zmq\backend\cython\context.cp37-win_amd64.pyd
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\zmq\backend\cython\context.pxd
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\zmq\eventloop\minitornado\stack_context.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\zmq\eventloop\minitornado\__pycache__\stack_context.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\zmq\sugar\context.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\zmq\sugar\__pycache__\context.cpython-37.pyc
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\zmq\tests\test_context.py
+E:\$RECYCLE.BIN\S-1-5-21-4089408101-3014170077-943626647-1001\$RJKFH3J\app\venv\Lib\site-packages\zmq\tests\__pycache__\test_context.cpython-37.pyc
+E:\xampp\phpMyAdmin\vendor\bacon\bacon-qr-code\src\Renderer\PlainTextRenderer.php
+E:\xampp\phpMyAdmin\vendor\twig\twig\lib\Twig\SourceContextLoaderInterface.php
+E:\xampp\phpMyAdmin\vendor\twig\twig\lib\Twig\Node\Text.php
+E:\xampp\phpMyAdmin\js\vendor\jqplot\plugins\jqplot.canvasTextRenderer.js
+E:\xampp\phpMyAdmin\vendor\phpmyadmin\sql-parser\src\Context.php
+E:\xampp\phpMyAdmin\vendor\phpmyadmin\sql-parser\src\Contexts\ContextMariaDb100000.php
+E:\xampp\phpMyAdmin\vendor\twig\twig\src\Extension\AbstractExtension.php
+E:\xampp\phpMyAdmin\vendor\phpmyadmin\sql-parser\src\Contexts\ContextMariaDb100100.php
+E:\xampp\phpMyAdmin\vendor\phpmyadmin\sql-parser\src\Contexts\ContextMariaDb100200.php
+E:\xampp\phpMyAdmin\vendor\phpmyadmin\sql-parser\src\Contexts\ContextMariaDb100300.php
+E:\xampp\phpMyAdmin\vendor\phpmyadmin\sql-parser\src\Contexts\ContextMySql50000.php
+E:\xampp\phpMyAdmin\vendor\phpmyadmin\sql-parser\src\Contexts\ContextMySql50100.php
+E:\xampp\phpMyAdmin\vendor\phpmyadmin\sql-parser\src\Contexts\ContextMySql50500.php
+E:\xampp\phpMyAdmin\vendor\phpmyadmin\sql-parser\src\Contexts\ContextMySql50600.php
+E:\xampp\phpMyAdmin\vendor\phpmyadmin\sql-parser\src\Contexts\ContextMySql50700.php
+E:\xampp\phpMyAdmin\vendor\phpmyadmin\sql-parser\src\Contexts\ContextMySql80000.php
+E:\xampp\phpMyAdmin\vendor\phpmyadmin\sql-parser\src\Contexts
+E:\xampp\phpMyAdmin\vendor\twig\twig\src\Loader\SourceContextLoaderInterface.php
+E:\xampp\phpMyAdmin\vendor\twig\twig\lib\Twig\Profiler\Dumper\Text.php
+E:\xampp\phpMyAdmin\vendor\twig\twig\src\Node\TextNode.php
+E:\xampp\phpMyAdmin\vendor\twig\twig\src\Profiler\Dumper\TextDumper.php
+E:\xampp\phpMyAdmin\vendor\phpmyadmin\sql-parser\src\Tools\ContextGenerator.php
+E:\xampp\phpMyAdmin\libraries\classes\Plugins\Export\ExportTexytext.php
+E:\xampp\phpMyAdmin\libraries\classes\Plugins\Transformations\Text_Plain_Link.php
+E:\xampp\phpMyAdmin\libraries\classes\Plugins\Transformations\Text_Plain_Longtoipv4.php
+E:\xampp\phpMyAdmin\libraries\classes\Plugins\Transformations\Text_Plain_PreApPend.php
+E:\xampp\phpMyAdmin\libraries\classes\Plugins\Transformations\Text_Plain_Substring.php
+E:\xampp\phpMyAdmin\libraries\classes\Plugins\Transformations\Abs\Bool2TextTransformationsPlugin.php
+E:\xampp\phpMyAdmin\libraries\classes\Plugins\Transformations\Abs\TextFileUploadTransformationsPlugin.php
+E:\xampp\phpMyAdmin\libraries\classes\Plugins\Transformations\Abs\TextImageLinkTransformationsPlugin.php
+E:\xampp\phpMyAdmin\libraries\classes\Plugins\Transformations\Abs\TextLinkTransformationsPlugin.php
+E:\xampp\phpMyAdmin\libraries\classes\Plugins\Transformations\Input\Text_Plain_FileUpload.php
+E:\xampp\phpMyAdmin\libraries\classes\Plugins\Transformations\Input\Text_Plain_Iptobinary.php
+E:\xampp\phpMyAdmin\libraries\classes\Plugins\Transformations\Input\Text_Plain_JsonEditor.php
+E:\xampp\phpMyAdmin\libraries\classes\Plugins\Transformations\Input\Text_Plain_RegexValidation.php
+E:\xampp\phpMyAdmin\templates\test\gettext\gettext.twig
+E:\xampp\phpMyAdmin\libraries\classes\Plugins\Transformations\Input\Text_Plain_SqlEditor.php
+E:\xampp\phpMyAdmin\templates\test\gettext\notes.twig
+E:\xampp\phpMyAdmin\libraries\classes\Plugins\Transformations\Input\Text_Plain_XmlEditor.php
+E:\xampp\phpMyAdmin\templates\test\gettext\pgettext.twig
+E:\xampp\phpMyAdmin\templates\test\gettext\plural.twig
+E:\xampp\phpMyAdmin\templates\test\gettext\plural_notes.twig
+E:\xampp\phpMyAdmin\templates\test\gettext
+E:\xampp\phpMyAdmin\libraries\classes\Plugins\Transformations\Output\Text_Octetstream_Sql.php
+E:\xampp\phpMyAdmin\libraries\classes\Plugins\Transformations\Output\Text_Plain_Binarytoip.php
+E:\xampp\phpMyAdmin\libraries\classes\Plugins\Transformations\Output\Text_Plain_Bool2Text.php
+E:\xampp\phpMyAdmin\libraries\classes\Plugins\Transformations\Output\Text_Plain_Dateformat.php
+E:\xampp\phpMyAdmin\libraries\classes\Plugins\Transformations\Output\Text_Plain_External.php
+E:\xampp\phpMyAdmin\libraries\classes\Plugins\Transformations\Output\Text_Plain_Formatted.php
+E:\xampp\phpMyAdmin\libraries\classes\Plugins\Transformations\Output\Text_Plain_Imagelink.php
+E:\xampp\phpMyAdmin\libraries\classes\Plugins\Transformations\Output\Text_Plain_Json.php
+E:\xampp\phpMyAdmin\libraries\classes\Plugins\Transformations\Output\Text_Plain_Xml.php
+E:\xampp\phpMyAdmin\libraries\classes\Plugins\Transformations\Output\Text_Plain_Sql.php
+E:\xampp\phpMyAdmin\libraries\classes\Properties\Options\Items\TextPropertyItem.php
+E:\xampp\phpMyAdmin\themes\original\img\bd_ftext.png
+E:\xampp\phpMyAdmin\themes\pmahomme\img\bd_ftext.png
+E:\xampp\phpMyAdmin\themes\original\img\b_ftext.png
+E:\xampp\phpMyAdmin\themes\pmahomme\img\b_ftext.png
+E:\xampp\phpMyAdmin\themes\metro\img\bd_ftext.png
+E:\xampp\phpMyAdmin\themes\original\img\s_partialtext.png
+E:\xampp\phpMyAdmin\themes\original\img\s_fulltext.png
+E:\xampp\phpMyAdmin\themes\metro\img\b_ftext.png
+E:\xampp\phpMyAdmin\themes\pmahomme\img\s_fulltext.png
+E:\xampp\phpMyAdmin\themes\pmahomme\img\s_partialtext.png
+E:\xampp\phpMyAdmin\themes\metro\img\s_fulltext.png
+E:\xampp\phpMyAdmin\themes\metro\img\s_partialtext.png
+E:\xampp\src\xampp-control-panel\gnugettext.pas
+E:\xampp\tomcat\conf\context.xml
+E:\xampp\tomcat\webapps\host-manager\META-INF\context.xml
+E:\xampp\tomcat\webapps\manager\META-INF\context.xml
+E:\xampp\tomcat\webapps\examples\jsp\jsp2\jspx\textRotate.html
+E:\xampp\tomcat\webapps\examples\jsp\jsp2\jspx\textRotate.jpg
+E:\xampp\tomcat\webapps\examples\jsp\jsp2\jspx\textRotate.jspx
+E:\xampp\tomcat\webapps\examples\jsp\jsp2\jspx\textRotate.jspx.html
+E:\xampp\tomcat\webapps\examples\WEB-INF\classes\async\AsyncStockContextListener.class
+E:\xampp\tomcat\webapps\examples\WEB-INF\classes\async\AsyncStockContextListener.java
+E:\xampp\tomcat\webapps\examples\WEB-INF\classes\websocket\drawboard\DrawboardContextListener.class
+E:\xampp\tomcat\webapps\examples\WEB-INF\classes\websocket\drawboard\DrawboardContextListener.java
+E:\xampp\tomcat\webapps\examples\WEB-INF\classes\listeners\ContextListener.class
+E:\xampp\tomcat\webapps\examples\WEB-INF\classes\listeners\ContextListener.java
+E:\xampp\tomcat\webapps\examples\WEB-INF\classes\websocket\echo\EchoEndpoint$EchoMessageHandlerText.class
+E:\xampp\tomcat\webapps\docs\config\context.html
+E:\YES\Lights\.metadata\.mylyn\contexts
+E:\YES\Lights\.metadata\.plugins\org.eclipse.mylyn.context.core\contexts
+E:\YES\Lights\.metadata\.plugins\org.eclipse.mylyn.context.core
+E:\YES\Lights\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.mylyn.context.core.prefs
